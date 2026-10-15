@@ -4,7 +4,7 @@ Need a hand with {{app_name}}? Email [{{contact_email}}](mailto:{{contact_email}
 
 ## Restore Premium
 
-Open the Premium screen and tap Restore while using the Apple Account that made the purchase. Check your connection and that the subscription is still active. If access is still missing, contact us with the product name and purchase date; do not send payment credentials. Restoring a purchase does not restore menus or shopping lists.
+Go to Settings → Remove ads → Restore while using the Apple Account that made the purchase. Check your connection and that the subscription is still active. If access is still missing, contact us with the product name and purchase date; do not send payment credentials. Restoring a purchase does not restore menus or shopping lists.
 
 ## Cancel a subscription or request a refund
 

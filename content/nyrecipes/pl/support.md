@@ -4,7 +4,7 @@ Potrzebujesz pomocy z aplikacją {{app_name}}? Napisz na [{{contact_email}}](mai
 
 ## Przywracanie Premium
 
-Otwórz ekran Premium i wybierz „Przywróć”, używając Konta Apple, na którym dokonano zakupu. Sprawdź połączenie i czy subskrypcja nadal jest aktywna. Jeśli dostępu wciąż brakuje, podaj nazwę produktu i datę zakupu bez danych dostępu do płatności. Przywrócenie zakupu nie przywraca menu ani list zakupów.
+Wybierz Ustawienia → „Usuń reklamy” → „Przywróć”, używając Konta Apple, na którym dokonano zakupu. Sprawdź połączenie i czy subskrypcja nadal jest aktywna. Jeśli dostępu wciąż brakuje, podaj nazwę produktu i datę zakupu bez danych dostępu do płatności. Przywrócenie zakupu nie przywraca menu ani list zakupów.
 
 ## Anulowanie subskrypcji lub zwrot
 

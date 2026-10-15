@@ -4,7 +4,7 @@ Brauchst du Hilfe mit {{app_name}}? Schreibe an [{{contact_email}}](mailto:{{con
 
 ## Premium wiederherstellen
 
-Öffne den Premium-Bildschirm und tippe auf „Wiederherstellen“. Verwende denselben Apple Account wie beim Kauf. Prüfe die Verbindung und ob das Abonnement noch aktiv ist. Fehlt der Zugang weiterhin, sende uns Produktname und Kaufdatum ohne Zahlungszugangsdaten. Die Wiederherstellung eines Kaufs stellt Menüs und Einkaufslisten nicht wieder her.
+Gehe zu Einstellungen → „Werbung entfernen“ → „Wiederherstellen“. Verwende denselben Apple Account wie beim Kauf. Prüfe die Verbindung und ob das Abonnement noch aktiv ist. Fehlt der Zugang weiterhin, sende uns Produktname und Kaufdatum ohne Zahlungszugangsdaten. Die Wiederherstellung eines Kaufs stellt Menüs und Einkaufslisten nicht wieder her.
 
 ## Abonnement kündigen oder Erstattung beantragen
 

@@ -14,11 +14,11 @@ Free access may include ads and feature limits. Where offered, voluntarily compl
 
 ## 3. Premium purchases
 
-Depending on availability in your storefront, Premium is offered as a one-time non-consumable purchase or a monthly auto-renewing subscription. The purchase screen and Apple confirmation show the current price, currency, billing period and included features before payment. Premium removes regular ads and unlocks the features shown in the app; voluntary rewarded ads may remain available.
+Depending on availability in your storefront, Premium is offered as a one-time non-consumable purchase or a monthly auto-renewing subscription. The purchase screen and Apple confirmation show the current price, currency, billing period and included features before payment. Premium removes advertising in the app and unlocks the features shown in the app.
 
 Apple charges the Apple Account used for purchase. A monthly subscription renews automatically unless cancelled before renewal; cancel at least 24 hours before the current period ends to avoid the next renewal charge. Manage or cancel it in iOS Settings → your name → Subscriptions, or through the app’s Manage subscription option when available. Deleting the app does not cancel a subscription. Access normally remains until the paid period ends, subject to Apple’s rules and applicable law.
 
-The one-time option has no recurring charge and is associated with your Apple Account. It does not guarantee that the app, all future versions or every service will remain available indefinitely. Restore eligible purchases using Restore on the Premium screen with the same Apple Account. An expired or refunded purchase does not grant ongoing access. Availability and Family Sharing depend on the product’s App Store settings.
+The one-time option has no recurring charge and is associated with your Apple Account. It does not guarantee that the app, all future versions or every service will remain available indefinitely. Restore eligible purchases through Settings → Remove ads → Restore with the same Apple Account. An expired or refunded purchase does not grant ongoing access. Availability and Family Sharing depend on the product’s App Store settings.
 
 Refund requests for Apple-billed purchases are handled through [reportaproblem.apple.com](https://reportaproblem.apple.com/) under Apple’s rules and applicable consumer law. These terms do not remove any statutory refund or cancellation rights.
 

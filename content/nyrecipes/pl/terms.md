@@ -14,11 +14,11 @@ Bezpłatny dostęp może obejmować reklamy i limity funkcji. Jeśli oferowana j
 
 ## 3. Zakupy Premium
 
-Zależnie od dostępności w Twoim sklepie Premium jest oferowane jako jednorazowy zakup niezużywalny albo miesięczna subskrypcja odnawiana automatycznie. Ekran zakupu i potwierdzenie Apple pokazują przed płatnością aktualną cenę, walutę, okres rozliczeniowy i zawarte funkcje. Premium usuwa standardowe reklamy i odblokowuje funkcje wskazane w aplikacji; dobrowolne reklamy za nagrodę mogą pozostać dostępne.
+Zależnie od dostępności w Twoim sklepie Premium jest oferowane jako jednorazowy zakup niezużywalny albo miesięczna subskrypcja odnawiana automatycznie. Ekran zakupu i potwierdzenie Apple pokazują przed płatnością aktualną cenę, walutę, okres rozliczeniowy i zawarte funkcje. Premium usuwa reklamy w aplikacji i odblokowuje wskazane w niej funkcje.
 
 Apple obciąża Konto Apple użyte przy zakupie. Miesięczna subskrypcja odnawia się automatycznie, o ile nie zostanie anulowana przed odnowieniem. Anuluj co najmniej 24 godziny przed końcem bieżącego okresu, aby uniknąć kolejnej opłaty. Zarządzanie i anulowanie są dostępne w iOS: Ustawienia → Twoje imię i nazwisko → Subskrypcje lub w aplikacji przez „Zarządzaj subskrypcją”, jeśli ta opcja jest dostępna. Usunięcie aplikacji nie anuluje subskrypcji. Dostęp zazwyczaj pozostaje do końca opłaconego okresu, z uwzględnieniem zasad Apple i prawa.
 
-Zakup jednorazowy nie wiąże się z cykliczną opłatą i jest powiązany z Kontem Apple. Nie gwarantuje bezterminowej dostępności aplikacji, wszystkich przyszłych wersji ani każdej usługi. Uprawnione zakupy przywrócisz przyciskiem „Przywróć” na ekranie Premium, używając tego samego Konta Apple. Zakup wygasły lub zwrócony nie daje dalszego dostępu. Dostępność i Chmura rodzinna zależą od ustawień produktu w App Store.
+Zakup jednorazowy nie wiąże się z cykliczną opłatą i jest powiązany z Kontem Apple. Nie gwarantuje bezterminowej dostępności aplikacji, wszystkich przyszłych wersji ani każdej usługi. Uprawnione zakupy przywrócisz przez Ustawienia → „Usuń reklamy” → „Przywróć”, używając tego samego Konta Apple. Zakup wygasły lub zwrócony nie daje dalszego dostępu. Dostępność i Chmura rodzinna zależą od ustawień produktu w App Store.
 
 Zwroty zakupów rozliczanych przez Apple można zgłaszać przez [reportaproblem.apple.com](https://reportaproblem.apple.com/) zgodnie z zasadami Apple i właściwymi przepisami konsumenckimi. Warunki te nie odbierają ustawowych praw do zwrotu lub odstąpienia od zakupu.
 

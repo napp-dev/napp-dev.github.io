@@ -20,7 +20,7 @@ Apple processes payments. The app receives transaction information to verify Pre
 
 The app integrates Google AdMob and Yandex Mobile Ads; the active network depends on availability, region and configuration. Their SDKs can process IP address, approximate location inferred from it, device and app identifiers, technical diagnostics, ad views, clicks and revenue events to deliver and measure ads and prevent fraud. Yandex Mobile Ads also integrates AppMetrica components for analytics and diagnostics.
 
-IDFA is available only if you allow tracking in the iOS App Tracking Transparency prompt. Refusing tracking does not by itself disable all ads, analytics or crash reports. Where required, Google’s User Messaging Platform displays an advertising consent form. Advertising choices are passed to the integrated services, including Yandex and Firebase advertising consent settings. Premium removes regular ads; voluntarily offered rewarded ads may still be available. Premium does not switch off analytics or crash reporting.
+IDFA is available only if you allow tracking in the iOS App Tracking Transparency prompt. Refusing tracking does not by itself disable all ads, analytics or crash reports. Where required, Google’s User Messaging Platform displays an advertising consent form. Advertising choices are passed to the integrated services, including Yandex and Firebase advertising consent settings. Premium removes advertising in the app. Premium does not switch off analytics or crash reporting.
 
 ## 4. Purposes, legal grounds and recipients
 
@@ -30,7 +30,7 @@ Recipients include Apple for purchases, Google for Firebase and AdMob, and Yande
 
 ## 5. Retention and security
 
-Local content remains until you delete it or remove the app; copies in device backups follow your backup settings. Analytics retention follows the project’s Google Analytics settings and the service’s retention rules; contact us for information about the current setting. Firebase documents a 90-day retention period for crash reports and associated identifiers before deletion begins. Advertising and Remote Config data follow the providers’ documented retention and deletion rules linked above. Support messages are kept as needed to resolve the request and meet legal obligations. An uninstall stops new app activity but does not immediately erase previously received provider data.
+Local content remains until you delete it or remove the app; copies in device backups follow your backup settings. Event data in Google Analytics for Firebase is retained for 14 months, then automatically deleted. Firebase documents a 90-day retention period for crash reports and associated identifiers before deletion begins. Advertising and Remote Config data follow the providers’ documented retention and deletion rules linked above. Support messages are kept as needed to resolve the request and meet legal obligations. An uninstall stops new app activity but does not immediately erase previously received provider data.
 
 Network services use encrypted connections. Access to developer dashboards is restricted. No storage or transmission method can guarantee absolute security.
 

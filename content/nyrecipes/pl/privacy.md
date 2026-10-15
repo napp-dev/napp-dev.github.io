@@ -20,7 +20,7 @@ Płatności obsługuje Apple. Aplikacja otrzymuje informacje o transakcjach w ce
 
 Aplikacja integruje Google AdMob i Yandex Mobile Ads. Aktywna sieć zależy od dostępności, regionu i konfiguracji. Ich SDK mogą przetwarzać adres IP, wynikającą z niego przybliżoną lokalizację, identyfikatory urządzenia i aplikacji, diagnostykę, wyświetlenia, kliknięcia i przychody z reklam w celu dostarczania i pomiaru reklam oraz zapobiegania oszustwom. Yandex Mobile Ads zawiera też komponenty AppMetrica do analityki i diagnostyki.
 
-IDFA jest dostępny wyłącznie po zezwoleniu na śledzenie w systemowym oknie iOS App Tracking Transparency. Odmowa nie wyłącza automatycznie wszystkich reklam, analityki ani raportów awarii. Gdy jest to wymagane, Google User Messaging Platform wyświetla formularz zgody reklamowej. Wybory są przekazywane zintegrowanym usługom, w tym Yandex i ustawieniom zgód reklamowych Firebase. Premium usuwa standardowe reklamy; dobrowolne reklamy za nagrodę mogą pozostać dostępne. Premium nie wyłącza analityki ani raportowania awarii.
+IDFA jest dostępny wyłącznie po zezwoleniu na śledzenie w systemowym oknie iOS App Tracking Transparency. Odmowa nie wyłącza automatycznie wszystkich reklam, analityki ani raportów awarii. Gdy jest to wymagane, Google User Messaging Platform wyświetla formularz zgody reklamowej. Wybory są przekazywane zintegrowanym usługom, w tym Yandex i ustawieniom zgód reklamowych Firebase. Premium usuwa reklamy w aplikacji. Premium nie wyłącza analityki ani raportowania awarii.
 
 ## 4. Cele, podstawy prawne i odbiorcy
 
@@ -30,7 +30,7 @@ Odbiorcami są Apple w zakresie zakupów, Google w zakresie Firebase i AdMob ora
 
 ## 5. Przechowywanie i bezpieczeństwo
 
-Lokalne treści pozostają do ich usunięcia lub odinstalowania aplikacji; kopie zapasowe podlegają Twoim ustawieniom. Okres przechowywania analityki zależy od ustawień projektu Google Analytics i zasad usługi. O aktualne ustawienie możesz nas zapytać. Firebase podaje 90 dni przechowywania raportów awarii i powiązanych identyfikatorów przed rozpoczęciem usuwania. Dane reklamowe i Remote Config podlegają opublikowanym zasadom przechowywania i usuwania dostawców wskazanych wyżej. Wiadomości do pomocy przechowujemy tak długo, jak jest to potrzebne do rozwiązania sprawy i wypełnienia obowiązków prawnych. Odinstalowanie zatrzymuje nową aktywność aplikacji, ale nie usuwa natychmiast danych otrzymanych wcześniej przez dostawców.
+Lokalne treści pozostają do ich usunięcia lub odinstalowania aplikacji; kopie zapasowe podlegają Twoim ustawieniom. Dane zdarzeń w Google Analytics for Firebase są przechowywane przez 14 miesięcy, a następnie automatycznie usuwane. Firebase podaje 90 dni przechowywania raportów awarii i powiązanych identyfikatorów przed rozpoczęciem usuwania. Dane reklamowe i Remote Config podlegają opublikowanym zasadom przechowywania i usuwania dostawców wskazanych wyżej. Wiadomości do pomocy przechowujemy tak długo, jak jest to potrzebne do rozwiązania sprawy i wypełnienia obowiązków prawnych. Odinstalowanie zatrzymuje nową aktywność aplikacji, ale nie usuwa natychmiast danych otrzymanych wcześniej przez dostawców.
 
 Usługi sieciowe korzystają z szyfrowanych połączeń. Dostęp do paneli deweloperskich jest ograniczony. Żaden sposób przechowywania i przesyłania danych nie gwarantuje całkowitego bezpieczeństwa.
 

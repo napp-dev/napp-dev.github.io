@@ -20,7 +20,7 @@ Apple verarbeitet Zahlungen. Die App erhält Transaktionsinformationen zur Prüf
 
 Die App integriert Google AdMob und Yandex Mobile Ads. Das aktive Netzwerk hängt von Verfügbarkeit, Region und Konfiguration ab. Ihre SDKs können IP-Adresse, daraus abgeleiteten ungefähren Standort, Geräte- und App-Kennungen, technische Diagnosedaten, Werbeeinblendungen, Klicks und Umsatzereignisse verarbeiten, um Werbung bereitzustellen und zu messen sowie Betrug zu verhindern. Yandex Mobile Ads integriert außerdem AppMetrica-Komponenten für Analyse und Diagnose.
 
-Die IDFA ist nur verfügbar, wenn du Tracking im iOS-Dialog App Tracking Transparency erlaubst. Eine Ablehnung deaktiviert nicht automatisch sämtliche Werbung, Analysen oder Absturzberichte. Wo erforderlich, zeigt Googles User Messaging Platform ein Formular zur Werbeeinwilligung. Deine Auswahl wird an die integrierten Dienste weitergegeben, einschließlich Yandex und der Werbeeinwilligungseinstellungen von Firebase. Premium entfernt reguläre Werbung; freiwillige Werbung gegen Belohnung kann weiterhin verfügbar sein. Premium deaktiviert weder Analysen noch Absturzberichte.
+Die IDFA ist nur verfügbar, wenn du Tracking im iOS-Dialog App Tracking Transparency erlaubst. Eine Ablehnung deaktiviert nicht automatisch sämtliche Werbung, Analysen oder Absturzberichte. Wo erforderlich, zeigt Googles User Messaging Platform ein Formular zur Werbeeinwilligung. Deine Auswahl wird an die integrierten Dienste weitergegeben, einschließlich Yandex und der Werbeeinwilligungseinstellungen von Firebase. Premium entfernt Werbung in der App. Premium deaktiviert weder Analysen noch Absturzberichte.
 
 ## 4. Zwecke, Rechtsgrundlagen und Empfänger
 
@@ -30,7 +30,7 @@ Zu den Empfängern gehören Apple für Käufe, Google für Firebase und AdMob so
 
 ## 5. Speicherdauer und Sicherheit
 
-Lokale Inhalte bleiben gespeichert, bis du sie oder die App löschst; Sicherungskopien richten sich nach deinen Backup-Einstellungen. Die Speicherdauer von Analysedaten richtet sich nach den Google-Analytics-Projekteinstellungen und den Regeln des Dienstes. Die aktuelle Einstellung kannst du bei uns erfragen. Firebase nennt für Absturzberichte und zugehörige Kennungen 90 Tage, bevor die Löschung beginnt. Für Werbe- und Remote-Config-Daten gelten die oben verlinkten Speicher- und Löschregeln der Anbieter. Supportnachrichten werden so lange aufbewahrt, wie dies zur Bearbeitung und zur Erfüllung gesetzlicher Pflichten nötig ist. Eine Deinstallation beendet neue App-Aktivität, löscht aber bereits bei Anbietern gespeicherte Daten nicht sofort.
+Lokale Inhalte bleiben gespeichert, bis du sie oder die App löschst; Sicherungskopien richten sich nach deinen Backup-Einstellungen. Ereignisdaten in Google Analytics for Firebase werden 14 Monate gespeichert und danach automatisch gelöscht. Firebase nennt für Absturzberichte und zugehörige Kennungen 90 Tage, bevor die Löschung beginnt. Für Werbe- und Remote-Config-Daten gelten die oben verlinkten Speicher- und Löschregeln der Anbieter. Supportnachrichten werden so lange aufbewahrt, wie dies zur Bearbeitung und zur Erfüllung gesetzlicher Pflichten nötig ist. Eine Deinstallation beendet neue App-Aktivität, löscht aber bereits bei Anbietern gespeicherte Daten nicht sofort.
 
 Netzwerkdienste verwenden verschlüsselte Verbindungen. Der Zugang zu Entwicklerkonsolen ist beschränkt. Absolute Sicherheit bei Speicherung und Übertragung kann nicht garantiert werden.
 
