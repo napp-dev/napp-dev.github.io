@@ -1,0 +1,153 @@
+{
+  "id": "nyrecipes",
+  "store_url": "https://apps.apple.com/app/id1601058903",
+  "updated": "2026-10-15",
+  "icon": "/assets/nyrecipes/icon.png",
+  "hero": "/assets/nyrecipes/table.jpg",
+  "locales": {
+    "en": {
+      "label": "English",
+      "name": "Book of recipes",
+      "tagline": "Good food. A little less planning.",
+      "description": "Find a recipe, plan your celebration and take your shopping list with you.",
+      "features": [
+        [
+          "Find your next favourite",
+          "Browse recipes and collections, save favourites and follow each step in cooking mode."
+        ],
+        [
+          "Bring the table together",
+          "Plan a menu for your guests and organise what to cook ahead of time."
+        ],
+        [
+          "Take a list, leave the guesswork",
+          "Turn your menu into a shopping list and share it when you need a hand."
+        ]
+      ],
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "support": "Support",
+      "download": "Download on the App Store",
+      "all_apps": "All apps",
+      "app_page": "App overview",
+      "choose": "Choose your language",
+      "documents": "Documents & help",
+      "documents_intro": "The details behind the app, in your language.",
+      "updated": "Last updated",
+      "skip": "Skip to content",
+      "on_page": "On this page",
+      "contact": "Contact support",
+      "privacy_note": "Your menus, favourites and shopping lists are stored on your device. The app also uses advertising, analytics and crash reporting services. Read the Privacy Policy for the details.",
+      "platform": "For iPhone and iPad",
+      "back": "Back to the app"
+    },
+    "ru": {
+      "label": "Русский",
+      "name": "Книга рецептов",
+      "tagline": "Вкусная еда. Меньше хлопот.",
+      "description": "Находите рецепты, планируйте праздник и берите список покупок с собой.",
+      "features": [
+        [
+          "Найдите любимый рецепт",
+          "Выбирайте блюда и подборки, сохраняйте избранное и готовьте по шагам в режиме готовки."
+        ],
+        [
+          "Соберите всех за столом",
+          "Составляйте меню для гостей и планируйте, что приготовить заранее."
+        ],
+        [
+          "Покупайте по списку",
+          "Превращайте меню в список покупок и делитесь им, когда нужна помощь."
+        ]
+      ],
+      "privacy": "Политика конфиденциальности",
+      "terms": "Условия использования",
+      "support": "Поддержка",
+      "download": "Скачать в App Store",
+      "all_apps": "Все приложения",
+      "app_page": "О приложении",
+      "choose": "Выберите язык",
+      "documents": "Документы и помощь",
+      "documents_intro": "Всё о приложении и его условиях на вашем языке.",
+      "updated": "Дата редакции",
+      "skip": "Перейти к содержимому",
+      "on_page": "На этой странице",
+      "contact": "Написать в поддержку",
+      "privacy_note": "Меню, избранное и списки покупок хранятся на устройстве. Приложение также использует рекламные сервисы, аналитику и отчёты о сбоях. Подробности — в политике конфиденциальности.",
+      "platform": "Для iPhone и iPad",
+      "back": "К приложению"
+    },
+    "de": {
+      "label": "Deutsch",
+      "name": "Rezeptbuch",
+      "tagline": "Gutes Essen. Weniger Planungsstress.",
+      "description": "Rezepte entdecken, Feste planen und die Einkaufsliste immer dabeihaben.",
+      "features": [
+        [
+          "Dein nächstes Lieblingsrezept",
+          "Entdecke Rezepte und Sammlungen, speichere Favoriten und koche Schritt für Schritt im Kochmodus."
+        ],
+        [
+          "Alle an einen Tisch",
+          "Plane ein Menü für deine Gäste und bereite Gerichte rechtzeitig vor."
+        ],
+        [
+          "Mit Liste einkaufen",
+          "Erstelle aus deinem Menü eine Einkaufsliste und teile sie, wenn du Unterstützung brauchst."
+        ]
+      ],
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "support": "Support",
+      "download": "Im App Store laden",
+      "all_apps": "Alle Apps",
+      "app_page": "Über die App",
+      "choose": "Sprache wählen",
+      "documents": "Dokumente & Hilfe",
+      "documents_intro": "Informationen zur App und ihren Bedingungen in deiner Sprache.",
+      "updated": "Stand",
+      "skip": "Zum Inhalt springen",
+      "on_page": "Auf dieser Seite",
+      "contact": "Support kontaktieren",
+      "privacy_note": "Menüs, Favoriten und Einkaufslisten werden auf deinem Gerät gespeichert. Die App nutzt außerdem Werbung, Analyse- und Absturzberichtsdienste. Einzelheiten stehen in der Datenschutzerklärung.",
+      "platform": "Für iPhone und iPad",
+      "back": "Zur App"
+    },
+    "pl": {
+      "label": "Polski",
+      "name": "Książka przepisów",
+      "tagline": "Dobre jedzenie. Mniej planowania.",
+      "description": "Odkrywaj przepisy, planuj świętowanie i miej listę zakupów zawsze przy sobie.",
+      "features": [
+        [
+          "Znajdź ulubiony przepis",
+          "Przeglądaj przepisy i kolekcje, zapisuj ulubione i gotuj krok po kroku w trybie gotowania."
+        ],
+        [
+          "Zaproś wszystkich do stołu",
+          "Ułóż menu dla gości i zaplanuj, co przygotować wcześniej."
+        ],
+        [
+          "Kupuj według listy",
+          "Zamień menu w listę zakupów i udostępnij ją, gdy przyda się pomoc."
+        ]
+      ],
+      "privacy": "Polityka prywatności",
+      "terms": "Warunki korzystania",
+      "support": "Pomoc",
+      "download": "Pobierz z App Store",
+      "all_apps": "Wszystkie aplikacje",
+      "app_page": "O aplikacji",
+      "choose": "Wybierz język",
+      "documents": "Dokumenty i pomoc",
+      "documents_intro": "Informacje o aplikacji i jej zasadach w Twoim języku.",
+      "updated": "Data aktualizacji",
+      "skip": "Przejdź do treści",
+      "on_page": "Na tej stronie",
+      "contact": "Napisz do pomocy",
+      "privacy_note": "Menu, ulubione i listy zakupów są przechowywane na Twoim urządzeniu. Aplikacja korzysta też z reklam, analityki i raportowania awarii. Szczegóły znajdziesz w polityce prywatności.",
+      "platform": "Na iPhone’a i iPada",
+      "back": "Do aplikacji"
+    }
+  }
+}
