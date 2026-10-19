@@ -1,7 +1,7 @@
 # Napp — приложения, документы и поддержка
 
 Общий статический сайт разработчика для GitHub Pages: https://napp-dev.github.io/.
-Первое приложение — «Книга рецептов» / Book of recipes / Rezeptbuch / Książka przepisów.
+Первое приложение — «Книга рецептов» / Recipe Book / Rezeptbuch / Książka kucharska.
 Языки приложения и документов: `en`, `ru`, `de`, `pl`.
 
 ## Навигация и постоянные адреса

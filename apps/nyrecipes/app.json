@@ -1,13 +1,13 @@
 {
   "id": "nyrecipes",
   "store_url": "https://apps.apple.com/app/id1601058903",
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "icon": "/assets/nyrecipes/icon.png",
   "hero": "/assets/nyrecipes/table.jpg",
   "locales": {
     "en": {
       "label": "English",
-      "name": "Book of recipes",
+      "name": "Recipe Book",
       "tagline": "Good food. A little less planning.",
       "description": "Find a recipe, plan your celebration and take your shopping list with you.",
       "features": [
@@ -38,7 +38,7 @@
       "on_page": "On this page",
       "contact": "Contact support",
       "privacy_note": "Your menus, favourites and shopping lists are stored on your device. The app also uses advertising, analytics and crash reporting services. Read the Privacy Policy for the details.",
-      "platform": "For iPhone and iPad",
+      "platform": "For iPhone",
       "back": "Back to the app"
     },
     "ru": {
@@ -74,7 +74,7 @@
       "on_page": "На этой странице",
       "contact": "Написать в поддержку",
       "privacy_note": "Меню, избранное и списки покупок хранятся на устройстве. Приложение также использует рекламные сервисы, аналитику и отчёты о сбоях. Подробности — в политике конфиденциальности.",
-      "platform": "Для iPhone и iPad",
+      "platform": "Для iPhone",
       "back": "К приложению"
     },
     "de": {
@@ -110,12 +110,12 @@
       "on_page": "Auf dieser Seite",
       "contact": "Support kontaktieren",
       "privacy_note": "Menüs, Favoriten und Einkaufslisten werden auf deinem Gerät gespeichert. Die App nutzt außerdem Werbung, Analyse- und Absturzberichtsdienste. Einzelheiten stehen in der Datenschutzerklärung.",
-      "platform": "Für iPhone und iPad",
+      "platform": "Für iPhone",
       "back": "Zur App"
     },
     "pl": {
       "label": "Polski",
-      "name": "Książka przepisów",
+      "name": "Książka kucharska",
       "tagline": "Dobre jedzenie. Mniej planowania.",
       "description": "Odkrywaj przepisy, planuj świętowanie i miej listę zakupów zawsze przy sobie.",
       "features": [
@@ -146,7 +146,7 @@
       "on_page": "Na tej stronie",
       "contact": "Napisz do pomocy",
       "privacy_note": "Menu, ulubione i listy zakupów są przechowywane na Twoim urządzeniu. Aplikacja korzysta też z reklam, analityki i raportowania awarii. Szczegóły znajdziesz w polityce prywatności.",
-      "platform": "Na iPhone’a i iPada",
+      "platform": "Na iPhone’a",
       "back": "Do aplikacji"
     }
   }
