@@ -41,7 +41,8 @@
       ],
       "privacy": "Privacy Policy",
       "terms": "Terms of Use",
-      "support": "Support"
+      "support": "Support",
+      "content_note": "Some content may have been generated with the help of artificial intelligence."
     },
     "ru": {
       "label": "Русский",
@@ -77,7 +78,8 @@
       ],
       "privacy": "Политика конфиденциальности",
       "terms": "Условия использования",
-      "support": "Поддержка"
+      "support": "Поддержка",
+      "content_note": "Часть контента может быть создана с помощью искусственного интеллекта."
     },
     "de": {
       "label": "Deutsch",
@@ -113,7 +115,8 @@
       ],
       "privacy": "Datenschutzerklärung",
       "terms": "Nutzungsbedingungen",
-      "support": "Support"
+      "support": "Support",
+      "content_note": "Teile der Inhalte können mithilfe künstlicher Intelligenz erstellt worden sein."
     },
     "fr": {
       "label": "Français",
@@ -149,7 +152,8 @@
       ],
       "privacy": "Politique de confidentialité",
       "terms": "Conditions d’utilisation",
-      "support": "Assistance"
+      "support": "Assistance",
+      "content_note": "Une partie du contenu peut être générée avec l’aide de l’intelligence artificielle."
     },
     "es": {
       "label": "Español (España)",
@@ -185,7 +189,8 @@
       ],
       "privacy": "Política de privacidad",
       "terms": "Condiciones de uso",
-      "support": "Ayuda"
+      "support": "Ayuda",
+      "content_note": "Parte del contenido puede haberse generado con ayuda de la inteligencia artificial."
     },
     "es-419": {
       "label": "Español (Latinoamérica)",
@@ -221,7 +226,8 @@
       ],
       "privacy": "Política de privacidad",
       "terms": "Términos de uso",
-      "support": "Soporte"
+      "support": "Soporte",
+      "content_note": "Parte del contenido puede haberse generado con ayuda de la inteligencia artificial."
     },
     "pt-BR": {
       "label": "Português (Brasil)",
@@ -257,7 +263,8 @@
       ],
       "privacy": "Política de privacidade",
       "terms": "Termos de uso",
-      "support": "Suporte"
+      "support": "Suporte",
+      "content_note": "Parte do conteúdo pode ter sido gerada com a ajuda de inteligência artificial."
     },
     "it": {
       "label": "Italiano",
@@ -293,7 +300,8 @@
       ],
       "privacy": "Informativa sulla privacy",
       "terms": "Condizioni d’uso",
-      "support": "Assistenza"
+      "support": "Assistenza",
+      "content_note": "Parte dei contenuti potrebbe essere stata generata con l’aiuto dell’intelligenza artificiale."
     },
     "ja": {
       "label": "日本語",
@@ -329,7 +337,8 @@
       ],
       "privacy": "プライバシーポリシー",
       "terms": "利用規約",
-      "support": "サポート"
+      "support": "サポート",
+      "content_note": "コンテンツの一部は、人工知能（AI）を利用して生成されている場合があります。"
     },
     "ko": {
       "label": "한국어",
@@ -365,7 +374,8 @@
       ],
       "privacy": "개인정보 처리방침",
       "terms": "이용약관",
-      "support": "지원"
+      "support": "지원",
+      "content_note": "일부 콘텐츠는 인공지능(AI)의 도움으로 생성되었을 수 있습니다."
     }
   }
 }

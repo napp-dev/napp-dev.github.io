@@ -150,9 +150,10 @@ for app_id in SITE['apps']:
             if title != text[kind]:
                 raise ValueError(f'Document title mismatch: {source}')
             toc = '<aside class="toc"><p class="eyebrow">' + e(text['on_page']) + '</p><nav aria-label="' + e(text['on_page']) + '">' + ''.join(anchor(label, '#' + hid) for label, hid in headings) + '</nav></aside>'
+            content_note = f'<p class="content-note" role="note">{e(text["content_note"])}</p>' if text.get('content_note') else ''
             description = text['name'] + ' — ' + title
             page(url(app, lang, kind), description, description,
-                 crumbs + languages(app, lang, kind) + document_links(app, lang, kind) + f'<header class="document-title"><p class="eyebrow">{e(text["name"])}</p><h1>{e(title)}</h1><p class="muted">{e(text["updated"])}: <time datetime="{e(app["updated"])}">{e(app["updated"])}</time></p></header><div class="document-layout">{toc}<article class="prose">{article}<div class="back-link">{anchor("← " + text["back"], url(app, lang))}</div></article></div>', lang, app, kind)
+                 crumbs + languages(app, lang, kind) + document_links(app, lang, kind) + f'<header class="document-title"><p class="eyebrow">{e(text["name"])}</p><h1>{e(title)}</h1><p class="muted">{e(text["updated"])}: <time datetime="{e(app["updated"])}">{e(app["updated"])}</time></p></header><div class="document-layout">{toc}<article class="prose">{article}{content_note}<div class="back-link">{anchor("← " + text["back"], url(app, lang))}</div></article></div>', lang, app, kind)
 
 cards = ''
 for app in apps:

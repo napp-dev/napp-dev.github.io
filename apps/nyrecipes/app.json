@@ -39,7 +39,8 @@
       "contact": "Contact support",
       "privacy_note": "Your menus, favourites and shopping lists are stored on your device. The app also uses advertising, analytics and crash reporting services. Read the Privacy Policy for the details.",
       "platform": "For iPhone",
-      "back": "Back to the app"
+      "back": "Back to the app",
+      "content_note": "Some content may have been generated with the help of artificial intelligence."
     },
     "ru": {
       "label": "Русский",
@@ -75,7 +76,8 @@
       "contact": "Написать в поддержку",
       "privacy_note": "Меню, избранное и списки покупок хранятся на устройстве. Приложение также использует рекламные сервисы, аналитику и отчёты о сбоях. Подробности — в политике конфиденциальности.",
       "platform": "Для iPhone",
-      "back": "К приложению"
+      "back": "К приложению",
+      "content_note": "Часть контента может быть создана с помощью искусственного интеллекта."
     },
     "de": {
       "label": "Deutsch",
@@ -111,7 +113,8 @@
       "contact": "Support kontaktieren",
       "privacy_note": "Menüs, Favoriten und Einkaufslisten werden auf deinem Gerät gespeichert. Die App nutzt außerdem Werbung, Analyse- und Absturzberichtsdienste. Einzelheiten stehen in der Datenschutzerklärung.",
       "platform": "Für iPhone",
-      "back": "Zur App"
+      "back": "Zur App",
+      "content_note": "Teile der Inhalte können mithilfe künstlicher Intelligenz erstellt worden sein."
     },
     "pl": {
       "label": "Polski",
@@ -147,7 +150,8 @@
       "contact": "Napisz do pomocy",
       "privacy_note": "Menu, ulubione i listy zakupów są przechowywane na Twoim urządzeniu. Aplikacja korzysta też z reklam, analityki i raportowania awarii. Szczegóły znajdziesz w polityce prywatności.",
       "platform": "Na iPhone’a",
-      "back": "Do aplikacji"
+      "back": "Do aplikacji",
+      "content_note": "Część treści mogła zostać wygenerowana przy pomocy sztucznej inteligencji."
     }
   }
 }
