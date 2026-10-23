@@ -1,0 +1,371 @@
+{
+  "id": "weekwall",
+  "store_url": "https://apps.apple.com/app/id6819834661",
+  "updated": "2026-10-23",
+  "icon": "/assets/weekwall/icon.png",
+  "hero": "/assets/weekwall/lock-screen.png",
+  "image_style": "phone",
+  "catalogue_platform": "IPHONE",
+  "locales": {
+    "en": {
+      "label": "English",
+      "tagline": "Your week. On your Lock Screen.",
+      "description": "Turn your calendar into a wallpaper. See your week at a glance, with the background and layout you choose.",
+      "download": "Download on the App Store",
+      "all_apps": "All apps",
+      "app_page": "App overview",
+      "choose": "Choose your language",
+      "documents": "Documents & help",
+      "documents_intro": "Privacy, purchases and help with setting up your wallpaper.",
+      "updated": "Last updated",
+      "skip": "Skip to content",
+      "on_page": "On this page",
+      "contact": "Contact support",
+      "privacy_note": "Calendar events and photos are processed on your device. No advertising or analytics SDKs. Details are in the Privacy Policy.",
+      "platform": "For iPhone · iOS 26 or later",
+      "back": "Back to the app",
+      "name": "Weekwall",
+      "features": [
+        [
+          "See the week",
+          "Display events from the calendars you choose in a weekly grid, timeline or today’s agenda."
+        ],
+        [
+          "Make it yours",
+          "Choose a photo or built-in background, adjust the layout and hide event titles when you need privacy."
+        ],
+        [
+          "Keep it current",
+          "Use Apple Shortcuts to apply your wallpaper and schedule daily updates."
+        ]
+      ],
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "support": "Support"
+    },
+    "ru": {
+      "label": "Русский",
+      "tagline": "Ваша неделя. На экране блокировки.",
+      "description": "Превратите календарь в обои. Вся неделя перед глазами — с выбранным фоном и оформлением.",
+      "download": "Скачать в App Store",
+      "all_apps": "Все приложения",
+      "app_page": "О приложении",
+      "choose": "Выберите язык",
+      "documents": "Документы и помощь",
+      "documents_intro": "Конфиденциальность, покупки и помощь с настройкой обоев.",
+      "updated": "Дата редакции",
+      "skip": "Перейти к содержимому",
+      "on_page": "На этой странице",
+      "contact": "Написать в поддержку",
+      "privacy_note": "События календаря и фотографии обрабатываются на устройстве. Рекламных и аналитических SDK нет. Подробности — в политике конфиденциальности.",
+      "platform": "Для iPhone · iOS 26 и новее",
+      "back": "К приложению",
+      "name": "Weekwall",
+      "features": [
+        [
+          "Вся неделя перед глазами",
+          "Показывайте события выбранных календарей в сетке недели, на шкале времени или в расписании на сегодня."
+        ],
+        [
+          "Ваше оформление",
+          "Выберите фото или готовый фон, настройте вид календаря и скройте названия событий для конфиденциальности."
+        ],
+        [
+          "Актуальное расписание",
+          "Применяйте обои через «Команды» Apple и настройте ежедневное обновление."
+        ]
+      ],
+      "privacy": "Политика конфиденциальности",
+      "terms": "Условия использования",
+      "support": "Поддержка"
+    },
+    "de": {
+      "label": "Deutsch",
+      "tagline": "Deine Woche. Auf dem Sperrbildschirm.",
+      "description": "Mach deinen Kalender zum Hintergrundbild. Behalte deine Woche im Blick und wähle Hintergrund und Darstellung selbst.",
+      "download": "Im App Store laden",
+      "all_apps": "Alle Apps",
+      "app_page": "Über die App",
+      "choose": "Sprache wählen",
+      "documents": "Dokumente & Hilfe",
+      "documents_intro": "Datenschutz, Käufe und Hilfe beim Einrichten deines Hintergrundbilds.",
+      "updated": "Stand",
+      "skip": "Zum Inhalt springen",
+      "on_page": "Auf dieser Seite",
+      "contact": "Support kontaktieren",
+      "privacy_note": "Kalenderereignisse und Fotos werden auf deinem Gerät verarbeitet. Keine Werbe- oder Analyse-SDKs. Einzelheiten findest du in der Datenschutzerklärung.",
+      "platform": "Für iPhone · ab iOS 26",
+      "back": "Zurück zur App",
+      "name": "Weekwall",
+      "features": [
+        [
+          "Die Woche im Blick",
+          "Zeige Termine ausgewählter Kalender als Wochenraster, Zeitleiste oder Tagesübersicht."
+        ],
+        [
+          "Ganz nach deinem Geschmack",
+          "Wähle ein Foto oder einen integrierten Hintergrund, passe die Darstellung an und blende bei Bedarf Ereignistitel aus."
+        ],
+        [
+          "Immer aktuell",
+          "Wende dein Hintergrundbild mit Apple Kurzbefehlen an und richte tägliche Aktualisierungen ein."
+        ]
+      ],
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "support": "Support"
+    },
+    "fr": {
+      "label": "Français",
+      "tagline": "Votre semaine. Sur l’écran verrouillé.",
+      "description": "Transformez votre calendrier en fond d’écran. Retrouvez votre semaine en un coup d’œil, avec le fond et la présentation de votre choix.",
+      "download": "Télécharger dans l’App Store",
+      "all_apps": "Toutes les apps",
+      "app_page": "À propos de l’app",
+      "choose": "Choisir la langue",
+      "documents": "Documents et assistance",
+      "documents_intro": "Confidentialité, achats et aide à la configuration du fond d’écran.",
+      "updated": "Dernière mise à jour",
+      "skip": "Aller au contenu",
+      "on_page": "Sur cette page",
+      "contact": "Contacter l’assistance",
+      "privacy_note": "Les événements et les photos sont traités sur votre appareil. Aucun SDK publicitaire ou d’analyse. Consultez la politique de confidentialité.",
+      "platform": "Pour iPhone · iOS 26 ou version ultérieure",
+      "back": "Retour à l’app",
+      "name": "Weekwall",
+      "features": [
+        [
+          "La semaine en un coup d’œil",
+          "Affichez les événements des calendriers choisis sous forme de grille hebdomadaire, de chronologie ou de programme du jour."
+        ],
+        [
+          "À votre image",
+          "Choisissez une photo ou un fond intégré, adaptez la présentation et masquez les titres des événements si nécessaire."
+        ],
+        [
+          "Un calendrier à jour",
+          "Appliquez votre fond d’écran avec Raccourcis d’Apple et programmez une mise à jour quotidienne."
+        ]
+      ],
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation",
+      "support": "Assistance"
+    },
+    "es": {
+      "label": "Español (España)",
+      "tagline": "Tu semana. En la pantalla de bloqueo.",
+      "description": "Convierte tu calendario en un fondo de pantalla. Consulta tu semana de un vistazo con el fondo y el diseño que elijas.",
+      "download": "Descargar en el App Store",
+      "all_apps": "Todas las apps",
+      "app_page": "Acerca de la app",
+      "choose": "Elige tu idioma",
+      "documents": "Documentos y ayuda",
+      "documents_intro": "Privacidad, compras y ayuda para configurar tu fondo de pantalla.",
+      "updated": "Última actualización",
+      "skip": "Ir al contenido",
+      "on_page": "En esta página",
+      "contact": "Contactar con ayuda",
+      "privacy_note": "Los eventos y las fotos se procesan en tu dispositivo. Sin SDK de publicidad ni analítica. Consulta la política de privacidad.",
+      "platform": "Para iPhone · iOS 26 o posterior",
+      "back": "Volver a la app",
+      "name": "Weekwall",
+      "features": [
+        [
+          "Tu semana de un vistazo",
+          "Muestra los eventos de los calendarios que elijas en una cuadrícula semanal, una línea de tiempo o la agenda de hoy."
+        ],
+        [
+          "A tu gusto",
+          "Elige una foto o un fondo incluido, ajusta el diseño y oculta los títulos de los eventos cuando lo necesites."
+        ],
+        [
+          "Siempre al día",
+          "Aplica el fondo con Atajos de Apple y programa actualizaciones diarias."
+        ]
+      ],
+      "privacy": "Política de privacidad",
+      "terms": "Condiciones de uso",
+      "support": "Ayuda"
+    },
+    "es-419": {
+      "label": "Español (Latinoamérica)",
+      "tagline": "Tu semana. En la pantalla bloqueada.",
+      "description": "Convierte tu calendario en un fondo de pantalla. Consulta tu semana de un vistazo con el fondo y el diseño que elijas.",
+      "download": "Descargar en App Store",
+      "all_apps": "Todas las apps",
+      "app_page": "Acerca de la app",
+      "choose": "Elige tu idioma",
+      "documents": "Documentos y soporte",
+      "documents_intro": "Privacidad, compras y ayuda para configurar tu fondo de pantalla.",
+      "updated": "Última actualización",
+      "skip": "Ir al contenido",
+      "on_page": "En esta página",
+      "contact": "Contactar a soporte",
+      "privacy_note": "Los eventos y las fotos se procesan en tu dispositivo. Sin SDK de publicidad ni analítica. Consulta la política de privacidad.",
+      "platform": "Para iPhone · iOS 26 o posterior",
+      "back": "Volver a la app",
+      "name": "Weekwall",
+      "features": [
+        [
+          "Tu semana de un vistazo",
+          "Muestra los eventos de los calendarios que elijas en una cuadrícula semanal, una línea de tiempo o la agenda de hoy."
+        ],
+        [
+          "A tu manera",
+          "Elige una foto o un fondo incluido, ajusta el diseño y oculta los títulos de los eventos cuando lo necesites."
+        ],
+        [
+          "Siempre al día",
+          "Aplica el fondo con Atajos de Apple y programa actualizaciones diarias."
+        ]
+      ],
+      "privacy": "Política de privacidad",
+      "terms": "Términos de uso",
+      "support": "Soporte"
+    },
+    "pt-BR": {
+      "label": "Português (Brasil)",
+      "tagline": "Sua semana. Na Tela Bloqueada.",
+      "description": "Transforme seu calendário em papel de parede. Veja sua semana de relance com o fundo e o layout que você escolher.",
+      "download": "Baixar na App Store",
+      "all_apps": "Todos os apps",
+      "app_page": "Sobre o app",
+      "choose": "Escolha seu idioma",
+      "documents": "Documentos e suporte",
+      "documents_intro": "Privacidade, compras e ajuda para configurar seu papel de parede.",
+      "updated": "Última atualização",
+      "skip": "Ir para o conteúdo",
+      "on_page": "Nesta página",
+      "contact": "Entrar em contato com o suporte",
+      "privacy_note": "Eventos e fotos são processados no seu dispositivo. Sem SDKs de publicidade ou análise. Consulte a Política de privacidade.",
+      "platform": "Para iPhone · iOS 26 ou posterior",
+      "back": "Voltar ao app",
+      "name": "Weekwall",
+      "features": [
+        [
+          "A semana em um só lugar",
+          "Mostre os eventos dos calendários escolhidos em uma grade semanal, linha do tempo ou agenda de hoje."
+        ],
+        [
+          "Do seu jeito",
+          "Escolha uma foto ou um fundo incluído, ajuste o layout e oculte os títulos dos eventos quando precisar."
+        ],
+        [
+          "Sempre atualizado",
+          "Aplique seu papel de parede com o Atalhos da Apple e programe atualizações diárias."
+        ]
+      ],
+      "privacy": "Política de privacidade",
+      "terms": "Termos de uso",
+      "support": "Suporte"
+    },
+    "it": {
+      "label": "Italiano",
+      "tagline": "La tua settimana. Sulla schermata di blocco.",
+      "description": "Trasforma il calendario in uno sfondo. Guarda la tua settimana a colpo d’occhio, con il fondo e il layout che preferisci.",
+      "download": "Scarica su App Store",
+      "all_apps": "Tutte le app",
+      "app_page": "Informazioni sull’app",
+      "choose": "Scegli la lingua",
+      "documents": "Documenti e assistenza",
+      "documents_intro": "Privacy, acquisti e aiuto per configurare lo sfondo.",
+      "updated": "Ultimo aggiornamento",
+      "skip": "Vai al contenuto",
+      "on_page": "In questa pagina",
+      "contact": "Contatta l’assistenza",
+      "privacy_note": "Eventi e foto vengono elaborati sul tuo dispositivo. Nessun SDK pubblicitario o di analisi. Consulta l’informativa sulla privacy.",
+      "platform": "Per iPhone · iOS 26 o versioni successive",
+      "back": "Torna all’app",
+      "name": "Weekwall",
+      "features": [
+        [
+          "La settimana a colpo d’occhio",
+          "Mostra gli eventi dei calendari scelti in una griglia settimanale, una sequenza temporale o nell’agenda di oggi."
+        ],
+        [
+          "Come piace a te",
+          "Scegli una foto o uno sfondo incluso, personalizza il layout e nascondi i titoli degli eventi quando serve."
+        ],
+        [
+          "Sempre aggiornato",
+          "Applica lo sfondo con Comandi Rapidi di Apple e programma aggiornamenti giornalieri."
+        ]
+      ],
+      "privacy": "Informativa sulla privacy",
+      "terms": "Condizioni d’uso",
+      "support": "Assistenza"
+    },
+    "ja": {
+      "label": "日本語",
+      "tagline": "今週の予定を、ロック画面に。",
+      "description": "カレンダーを壁紙に。好きな背景とレイアウトで、1週間の予定をひと目で確認できます。",
+      "download": "App Storeからダウンロード",
+      "all_apps": "すべてのアプリ",
+      "app_page": "アプリについて",
+      "choose": "言語を選択",
+      "documents": "ドキュメントとサポート",
+      "documents_intro": "プライバシー、購入、壁紙の設定について。",
+      "updated": "最終更新日",
+      "skip": "本文へ移動",
+      "on_page": "このページの内容",
+      "contact": "サポートに連絡",
+      "privacy_note": "カレンダーの予定と写真は端末内で処理されます。広告・分析SDKは使用していません。詳しくはプライバシーポリシーをご覧ください。",
+      "platform": "iPhone用 · iOS 26以降",
+      "back": "アプリのページに戻る",
+      "name": "Weekwall",
+      "features": [
+        [
+          "1週間をひと目で",
+          "選んだカレンダーの予定を、週間グリッド、タイムライン、今日の予定で表示できます。"
+        ],
+        [
+          "自分好みに",
+          "写真や内蔵の背景を選び、レイアウトを調整。必要に応じて予定のタイトルを非表示にできます。"
+        ],
+        [
+          "いつでも最新に",
+          "Appleの「ショートカット」で壁紙を適用し、毎日の更新を設定できます。"
+        ]
+      ],
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "support": "サポート"
+    },
+    "ko": {
+      "label": "한국어",
+      "tagline": "이번 주 일정, 잠금 화면에서.",
+      "description": "캘린더를 배경화면으로 만들어 보세요. 원하는 배경과 레이아웃으로 한 주의 일정을 한눈에 확인할 수 있습니다.",
+      "download": "App Store에서 다운로드",
+      "all_apps": "모든 앱",
+      "app_page": "앱 소개",
+      "choose": "언어 선택",
+      "documents": "문서 및 지원",
+      "documents_intro": "개인정보, 구입 및 배경화면 설정에 관한 안내입니다.",
+      "updated": "최종 업데이트",
+      "skip": "본문으로 건너뛰기",
+      "on_page": "이 페이지의 내용",
+      "contact": "지원팀에 문의",
+      "privacy_note": "캘린더 이벤트와 사진은 기기에서 처리됩니다. 광고 및 분석 SDK를 사용하지 않습니다. 자세한 내용은 개인정보 처리방침을 확인하세요.",
+      "platform": "iPhone용 · iOS 26 이상",
+      "back": "앱 소개로 돌아가기",
+      "name": "Weekwall",
+      "features": [
+        [
+          "한 주를 한눈에",
+          "선택한 캘린더의 이벤트를 주간 격자, 타임라인 또는 오늘의 일정으로 표시합니다."
+        ],
+        [
+          "내 취향대로",
+          "사진이나 기본 배경을 선택하고 레이아웃을 조정하세요. 필요하면 이벤트 제목을 가릴 수 있습니다."
+        ],
+        [
+          "매일 새롭게",
+          "Apple 단축어로 배경화면을 적용하고 매일 자동으로 업데이트하도록 설정하세요."
+        ]
+      ],
+      "privacy": "개인정보 처리방침",
+      "terms": "이용약관",
+      "support": "지원"
+    }
+  }
+}
