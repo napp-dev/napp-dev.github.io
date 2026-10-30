@@ -1,0 +1,428 @@
+{
+  "id": "glimmer",
+  "store_url": null,
+  "updated": "2026-10-30",
+  "icon": "/assets/glimmer/icon.png",
+  "hero": "/assets/glimmer/landscape-lake.jpg",
+  "catalogue_platform": "IPHONE",
+  "locales": {
+    "en": {
+      "label": "English",
+      "name": "Glimmer — Affirmations",
+      "tagline": "A moment of encouragement. Every day.",
+      "description": "Discover daily affirmations, save the words that resonate and make space for your own thoughts.",
+      "features": [
+        [
+          "Find words for your day",
+          "Explore affirmation topics and keep your favourites close."
+        ],
+        [
+          "Make it personal",
+          "Write your own affirmations and choose backgrounds, fonts and colours."
+        ],
+        [
+          "Keep a gentle reminder",
+          "Set local reminders and add affirmations to your Home Screen with a widget."
+        ]
+      ],
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use",
+      "support": "Support",
+      "download": "Download on the App Store",
+      "all_apps": "All apps",
+      "app_page": "App overview",
+      "choose": "Choose your language",
+      "documents": "Documents & help",
+      "documents_intro": "The details behind the app, in your language.",
+      "updated": "Last updated",
+      "skip": "Skip to content",
+      "on_page": "On this page",
+      "contact": "Contact support",
+      "privacy_note": "Your affirmations, favourites and preferences are stored on your device. The app also uses advertising, analytics and crash reporting services. Some content was created with the help of AI.",
+      "platform": "For iPhone · iOS 26 or later",
+      "back": "Back to the app",
+      "content_note": "Some in-app content was created with the help of artificial intelligence. Affirmations are for general inspiration and do not replace professional medical or psychological care.",
+      "store_pending": "App Store link coming soon."
+    },
+    "ru": {
+      "label": "Русский",
+      "name": "Glimmer — Аффирмации",
+      "tagline": "Слова поддержки. Каждый день.",
+      "description": "Читайте аффирмации, сохраняйте близкие вам слова и добавляйте собственные мысли.",
+      "features": [
+        [
+          "Найдите слова для себя",
+          "Выбирайте темы аффирмаций и сохраняйте любимые фразы в избранное."
+        ],
+        [
+          "Добавьте своё",
+          "Создавайте собственные аффирмации, выбирайте фоны, шрифты и цвета."
+        ],
+        [
+          "Оставьте место для напоминания",
+          "Настраивайте локальные напоминания и добавляйте виджет с аффирмациями на экран «Домой»."
+        ]
+      ],
+      "privacy": "Политика конфиденциальности",
+      "terms": "Условия использования",
+      "support": "Поддержка",
+      "download": "Скачать в App Store",
+      "all_apps": "Все приложения",
+      "app_page": "О приложении",
+      "choose": "Выберите язык",
+      "documents": "Документы и помощь",
+      "documents_intro": "Всё о приложении и его условиях на вашем языке.",
+      "updated": "Дата редакции",
+      "skip": "Перейти к содержимому",
+      "on_page": "На этой странице",
+      "contact": "Написать в поддержку",
+      "privacy_note": "Аффирмации, избранное и настройки хранятся на устройстве. Приложение также использует рекламу, аналитику и отчёты о сбоях. Часть контента создана с помощью ИИ.",
+      "platform": "Для iPhone · iOS 26 и новее",
+      "back": "К приложению",
+      "content_note": "Часть контента приложения создана с помощью искусственного интеллекта. Аффирмации предназначены для общего вдохновения и не заменяют профессиональную медицинскую или психологическую помощь.",
+      "store_pending": "Ссылка на App Store появится здесь позже."
+    },
+    "de": {
+      "label": "Deutsch",
+      "tagline": "Ein Moment der Ermutigung. Jeden Tag.",
+      "description": "Entdecke tägliche Affirmationen, speichere passende Worte und schreibe deine eigenen Gedanken auf.",
+      "download": "Im App Store laden",
+      "all_apps": "Alle Apps",
+      "app_page": "Über die App",
+      "choose": "Sprache wählen",
+      "documents": "Dokumente & Hilfe",
+      "documents_intro": "Datenschutz, Käufe und Hilfe beim Einrichten deines Hintergrundbilds.",
+      "updated": "Stand",
+      "skip": "Zum Inhalt springen",
+      "on_page": "Auf dieser Seite",
+      "contact": "Support kontaktieren",
+      "privacy_note": "Eigene Affirmationen, Favoriten und Einstellungen bleiben auf deinem Gerät. Die App nutzt außerdem Werbung, Analysen und Absturzberichte. Ein Teil der Inhalte wurde mit KI erstellt.",
+      "platform": "Für iPhone · iOS 26 oder neuer",
+      "back": "Zurück zur App",
+      "name": "Glimmer — Affirmationen",
+      "features": [
+        [
+          "Worte für deinen Tag",
+          "Entdecke Themen und speichere deine Lieblingssätze."
+        ],
+        [
+          "Mach es persönlich",
+          "Schreibe eigene Affirmationen und wähle Hintergründe, Schriften und Farben."
+        ],
+        [
+          "Sanfte Erinnerungen",
+          "Nutze lokale Erinnerungen und Affirmationen als Widget auf dem Home-Bildschirm."
+        ]
+      ],
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "support": "Support",
+      "content_note": "Ein Teil der App-Inhalte wurde mithilfe künstlicher Intelligenz erstellt. Affirmationen ersetzen keine professionelle medizinische oder psychologische Betreuung.",
+      "store_pending": "Der App Store-Link folgt in Kürze."
+    },
+    "es": {
+      "label": "Español (España)",
+      "tagline": "Un momento de ánimo. Cada día.",
+      "description": "Descubre afirmaciones diarias, guarda las palabras que te acompañan y escribe tus propios pensamientos.",
+      "download": "Descargar en el App Store",
+      "all_apps": "Todas las apps",
+      "app_page": "Acerca de la app",
+      "choose": "Elige tu idioma",
+      "documents": "Documentos y ayuda",
+      "documents_intro": "Privacidad, compras y ayuda para configurar tu fondo de pantalla.",
+      "updated": "Última actualización",
+      "skip": "Ir al contenido",
+      "on_page": "En esta página",
+      "contact": "Contactar con ayuda",
+      "privacy_note": "Tus afirmaciones, favoritos y preferencias se guardan en tu dispositivo. La app también utiliza publicidad, análisis e informes de fallos. Parte del contenido se creó con IA.",
+      "platform": "Para iPhone · iOS 26 o posterior",
+      "back": "Volver a la app",
+      "name": "Glimmer — Afirmaciones",
+      "features": [
+        [
+          "Palabras para tu día",
+          "Explora temas y guarda tus frases favoritas."
+        ],
+        [
+          "Hazlo personal",
+          "Escribe afirmaciones y elige fondos, fuentes y colores."
+        ],
+        [
+          "Un recordatorio amable",
+          "Configura recordatorios locales y añade un widget a la pantalla de inicio."
+        ]
+      ],
+      "privacy": "Política de privacidad",
+      "terms": "Condiciones de uso",
+      "support": "Ayuda",
+      "content_note": "Parte del contenido de la app se creó con ayuda de inteligencia artificial. Las afirmaciones no sustituyen la atención médica o psicológica profesional.",
+      "store_pending": "El enlace al App Store estará disponible próximamente."
+    },
+    "fr": {
+      "label": "Français",
+      "tagline": "Un moment d’encouragement. Chaque jour.",
+      "description": "Découvrez des affirmations quotidiennes, gardez les mots qui vous parlent et écrivez vos propres pensées.",
+      "download": "Télécharger dans l’App Store",
+      "all_apps": "Toutes les apps",
+      "app_page": "À propos de l’app",
+      "choose": "Choisir la langue",
+      "documents": "Documents et assistance",
+      "documents_intro": "Confidentialité, achats et aide à la configuration du fond d’écran.",
+      "updated": "Dernière mise à jour",
+      "skip": "Aller au contenu",
+      "on_page": "Sur cette page",
+      "contact": "Contacter l’assistance",
+      "privacy_note": "Vos affirmations, favoris et préférences restent sur votre appareil. L’app utilise aussi la publicité, les analyses et les rapports de plantage. Une partie du contenu a été créée avec l’IA.",
+      "platform": "Pour iPhone · iOS 26 ou ultérieur",
+      "back": "Retour à l’app",
+      "name": "Glimmer — Affirmations",
+      "features": [
+        [
+          "Des mots pour votre journée",
+          "Explorez les thèmes et enregistrez vos phrases préférées."
+        ],
+        [
+          "À votre image",
+          "Écrivez vos affirmations et choisissez fonds, polices et couleurs."
+        ],
+        [
+          "Un rappel tout en douceur",
+          "Programmez des rappels locaux et ajoutez un widget sur l’écran d’accueil."
+        ]
+      ],
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation",
+      "support": "Assistance",
+      "content_note": "Une partie du contenu de l’app a été créée avec l’aide de l’intelligence artificielle. Les affirmations ne remplacent pas un accompagnement médical ou psychologique professionnel.",
+      "store_pending": "Le lien App Store sera bientôt disponible."
+    },
+    "it": {
+      "label": "Italiano",
+      "tagline": "Un momento di incoraggiamento. Ogni giorno.",
+      "description": "Scopri affermazioni quotidiane, salva le parole che senti tue e scrivi i tuoi pensieri.",
+      "download": "Scarica su App Store",
+      "all_apps": "Tutte le app",
+      "app_page": "Informazioni sull’app",
+      "choose": "Scegli la lingua",
+      "documents": "Documenti e assistenza",
+      "documents_intro": "Privacy, acquisti e aiuto per configurare lo sfondo.",
+      "updated": "Ultimo aggiornamento",
+      "skip": "Vai al contenuto",
+      "on_page": "In questa pagina",
+      "contact": "Contatta l’assistenza",
+      "privacy_note": "Affermazioni, preferiti e impostazioni restano sul dispositivo. L’app utilizza anche pubblicità, analisi e segnalazioni di arresti anomali. Parte dei contenuti è stata creata con l’IA.",
+      "platform": "Per iPhone · iOS 26 o successivo",
+      "back": "Torna all’app",
+      "name": "Glimmer — Affermazioni",
+      "features": [
+        [
+          "Parole per la tua giornata",
+          "Esplora i temi e conserva le frasi preferite."
+        ],
+        [
+          "Rendila tua",
+          "Scrivi affermazioni e scegli sfondi, caratteri e colori."
+        ],
+        [
+          "Un promemoria gentile",
+          "Imposta promemoria locali e aggiungi un widget alla schermata Home."
+        ]
+      ],
+      "privacy": "Informativa sulla privacy",
+      "terms": "Condizioni d’uso",
+      "support": "Assistenza",
+      "content_note": "Parte dei contenuti dell’app è stata creata con l’aiuto dell’intelligenza artificiale. Le affermazioni non sostituiscono l’assistenza medica o psicologica professionale.",
+      "store_pending": "Il link all’App Store sarà disponibile prossimamente."
+    },
+    "pt-BR": {
+      "label": "Português (Brasil)",
+      "tagline": "Um momento de incentivo. Todos os dias.",
+      "description": "Descubra afirmações diárias, salve palavras que fazem sentido para você e escreva seus próprios pensamentos.",
+      "download": "Baixar na App Store",
+      "all_apps": "Todos os apps",
+      "app_page": "Sobre o app",
+      "choose": "Escolha seu idioma",
+      "documents": "Documentos e suporte",
+      "documents_intro": "Privacidade, compras e ajuda para configurar seu papel de parede.",
+      "updated": "Última atualização",
+      "skip": "Ir para o conteúdo",
+      "on_page": "Nesta página",
+      "contact": "Entrar em contato com o suporte",
+      "privacy_note": "Suas afirmações, favoritos e preferências ficam no dispositivo. O app também usa publicidade, análises e relatórios de falhas. Parte do conteúdo foi criada com IA.",
+      "platform": "Para iPhone · iOS 26 ou posterior",
+      "back": "Voltar ao app",
+      "name": "Glimmer — Afirmações",
+      "features": [
+        [
+          "Palavras para o seu dia",
+          "Explore temas e guarde suas frases favoritas."
+        ],
+        [
+          "Do seu jeito",
+          "Escreva afirmações e escolha fundos, fontes e cores."
+        ],
+        [
+          "Um lembrete gentil",
+          "Configure lembretes locais e adicione um widget à Tela de Início."
+        ]
+      ],
+      "privacy": "Política de privacidade",
+      "terms": "Termos de uso",
+      "support": "Suporte",
+      "content_note": "Parte do conteúdo do app foi criada com ajuda de inteligência artificial. As afirmações não substituem cuidados médicos ou psicológicos profissionais.",
+      "store_pending": "O link da App Store estará disponível em breve."
+    },
+    "nl": {
+      "label": "Nederlands",
+      "name": "Glimmer — Affirmaties",
+      "tagline": "Een moment van bemoediging. Elke dag.",
+      "description": "Ontdek dagelijkse affirmaties, bewaar woorden die bij je passen en schrijf je eigen gedachten op.",
+      "features": [
+        [
+          "Woorden voor jouw dag",
+          "Verken thema’s en bewaar je favoriete zinnen."
+        ],
+        [
+          "Maak het persoonlijk",
+          "Schrijf affirmaties en kies achtergronden, lettertypen en kleuren."
+        ],
+        [
+          "Een vriendelijke herinnering",
+          "Stel lokale herinneringen in en voeg een widget toe aan je beginscherm."
+        ]
+      ],
+      "privacy": "Privacybeleid",
+      "terms": "Gebruiksvoorwaarden",
+      "support": "Ondersteuning",
+      "download": "Download in de App Store",
+      "all_apps": "Alle apps",
+      "app_page": "Over de app",
+      "choose": "Kies je taal",
+      "documents": "Documenten en hulp",
+      "documents_intro": "Informatie over de app en de voorwaarden in jouw taal.",
+      "updated": "Laatst bijgewerkt",
+      "skip": "Naar de inhoud",
+      "on_page": "Op deze pagina",
+      "contact": "Contact met ondersteuning",
+      "privacy_note": "Je affirmaties, favorieten en voorkeuren blijven op je apparaat. De app gebruikt ook advertenties, analyses en crashrapporten. Een deel van de inhoud is met AI gemaakt.",
+      "platform": "Voor iPhone · iOS 26 of nieuwer",
+      "back": "Terug naar de app",
+      "content_note": "Een deel van de app-inhoud is met hulp van kunstmatige intelligentie gemaakt. Affirmaties vervangen geen professionele medische of psychologische zorg.",
+      "store_pending": "De App Store-link volgt binnenkort."
+    },
+    "tr": {
+      "label": "Türkçe",
+      "name": "Glimmer — Olumlamalar",
+      "tagline": "Her gün. Bir anlık cesaret.",
+      "description": "Günlük olumlamaları keşfedin, size yakın gelen sözleri kaydedin ve kendi düşüncelerinizi yazın.",
+      "features": [
+        [
+          "Gününüz için sözler",
+          "Konuları keşfedin ve sevdiğiniz cümleleri kaydedin."
+        ],
+        [
+          "Size özel olsun",
+          "Olumlamalar yazın; arka plan, yazı tipi ve renk seçin."
+        ],
+        [
+          "Nazik bir hatırlatma",
+          "Yerel hatırlatmalar ayarlayın ve Ana Ekran’a bir araç takımı ekleyin."
+        ]
+      ],
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Koşulları",
+      "support": "Destek",
+      "download": "App Store’dan indirin",
+      "all_apps": "Tüm uygulamalar",
+      "app_page": "Uygulama hakkında",
+      "choose": "Dilinizi seçin",
+      "documents": "Belgeler ve yardım",
+      "documents_intro": "Uygulama ve koşulları hakkında kendi dilinizde bilgi.",
+      "updated": "Son güncelleme",
+      "skip": "İçeriğe geç",
+      "on_page": "Bu sayfada",
+      "contact": "Destekle iletişime geçin",
+      "privacy_note": "Olumlamalarınız, favorileriniz ve tercihleriniz cihazınızda saklanır. Uygulama ayrıca reklam, analiz ve çökme raporu hizmetleri kullanır. İçeriğin bir kısmı yapay zekâyla oluşturulmuştur.",
+      "platform": "iPhone için · iOS 26 veya sonrası",
+      "back": "Uygulamaya dön",
+      "content_note": "Uygulama içeriğinin bir kısmı yapay zekâ yardımıyla oluşturulmuştur. Olumlamalar profesyonel tıbbi veya psikolojik bakımın yerini almaz.",
+      "store_pending": "App Store bağlantısı yakında eklenecek."
+    },
+    "ja": {
+      "label": "日本語",
+      "tagline": "毎日に、励ましのひとときを。",
+      "description": "日々のアファメーションを読み、心に響く言葉を保存し、自分の言葉を書き留めましょう。",
+      "download": "App Storeからダウンロード",
+      "all_apps": "すべてのアプリ",
+      "app_page": "アプリについて",
+      "choose": "言語を選択",
+      "documents": "ドキュメントとサポート",
+      "documents_intro": "プライバシー、購入、壁紙の設定について。",
+      "updated": "最終更新日",
+      "skip": "本文へ移動",
+      "on_page": "このページの内容",
+      "contact": "サポートに連絡",
+      "privacy_note": "アファメーション、お気に入り、設定は端末に保存されます。アプリは広告、分析、クラッシュ報告サービスも利用します。一部のコンテンツはAIの支援で作成されました。",
+      "platform": "iPhone用 · iOS 26以降",
+      "back": "アプリのページに戻る",
+      "name": "Glimmer — アファメーション",
+      "features": [
+        [
+          "今日のあなたに合う言葉",
+          "テーマを探して、お気に入りのフレーズを保存できます。"
+        ],
+        [
+          "自分らしく",
+          "自分のアファメーションを作り、背景、フォント、色を選べます。"
+        ],
+        [
+          "やさしいリマインダー",
+          "ローカル通知を設定し、ホーム画面にウィジェットを追加できます。"
+        ]
+      ],
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "support": "サポート",
+      "content_note": "アプリの一部のコンテンツは人工知能の支援で作成されました。アファメーションは専門的な医療や心理的ケアに代わるものではありません。",
+      "store_pending": "App Storeのリンクは近日公開予定です。"
+    },
+    "ko": {
+      "label": "한국어",
+      "tagline": "매일 만나는 응원의 순간.",
+      "description": "매일의 확언을 읽고, 마음에 닿는 말을 저장하고, 나만의 생각을 적어 보세요.",
+      "download": "App Store에서 다운로드",
+      "all_apps": "모든 앱",
+      "app_page": "앱 소개",
+      "choose": "언어 선택",
+      "documents": "문서 및 지원",
+      "documents_intro": "개인정보, 구입 및 배경화면 설정에 관한 안내입니다.",
+      "updated": "최종 업데이트",
+      "skip": "본문으로 건너뛰기",
+      "on_page": "이 페이지의 내용",
+      "contact": "지원팀에 문의",
+      "privacy_note": "확언, 즐겨찾기 및 설정은 기기에 저장됩니다. 앱은 광고, 분석 및 충돌 보고 서비스도 사용합니다. 일부 콘텐츠는 AI의 도움으로 제작되었습니다.",
+      "platform": "iPhone용 · iOS 26 이상",
+      "back": "앱 소개로 돌아가기",
+      "name": "Glimmer — 긍정 확언",
+      "features": [
+        [
+          "오늘을 위한 말",
+          "주제를 살펴보고 좋아하는 문구를 저장하세요."
+        ],
+        [
+          "나만의 스타일",
+          "직접 확언을 쓰고 배경, 글꼴, 색상을 선택하세요."
+        ],
+        [
+          "부드러운 알림",
+          "기기 내 알림을 설정하고 홈 화면에 위젯을 추가하세요."
+        ]
+      ],
+      "privacy": "개인정보 처리방침",
+      "terms": "이용약관",
+      "support": "지원",
+      "content_note": "앱의 일부 콘텐츠는 인공지능의 도움으로 제작되었습니다. 확언은 전문적인 의료 또는 심리 치료를 대체하지 않습니다.",
+      "store_pending": "App Store 링크가 곧 추가됩니다."
+    }
+  }
+}

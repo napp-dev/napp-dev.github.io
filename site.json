@@ -4,6 +4,7 @@
   "contact_email": "napp.dev.support@gmail.com",
   "apps": [
     "nyrecipes",
-    "weekwall"
+    "weekwall",
+    "glimmer"
   ]
 }
