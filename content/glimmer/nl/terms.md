@@ -12,9 +12,9 @@ Affirmaties dienen algemene inspiratie en zelfreflectie. De app biedt geen medis
 
 Sommige teksten of beelden zijn met AI gemaakt en kunnen fouten, herhaling of ongeschikte formuleringen bevatten. Ze zijn geen individuele beoordeling of professioneel advies. De huidige app heeft geen live AI-chat en genereert geen antwoorden vanuit je eigen teksten.
 
-## 3. Gratis toegang en advertenties
+## 3. Gratis toegang
 
-Gratis toegang kan advertenties en limieten bevatten. Advertenties van derden zijn geen aanbeveling van producten of claims. Externe diensten hebben eigen voorwaarden. Beschikbaarheid hangt af van netwerk en verbinding. Trackingtoestemming is geen voorwaarde voor Premium.
+Gratis toegang kan limieten bevatten. Externe diensten hebben eigen voorwaarden.
 
 ## 4. Premium, abonnementen en proefperioden
 

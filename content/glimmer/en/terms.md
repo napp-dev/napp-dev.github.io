@@ -12,9 +12,9 @@ Affirmations are intended for general inspiration and self-reflection. The app i
 
 Some content was created with the help of artificial intelligence, including some affirmation texts or visual materials. Such content may contain errors, repetition or wording that does not suit your circumstances. It is not an individual assessment or a professional recommendation. The current app does not provide a live AI chat or generate responses from your personal phrases.
 
-## 3. Free access and advertising
+## 3. Free access
 
-Free access may include advertising and feature limits. Ads are supplied by third parties; an advertisement does not constitute our endorsement of its claims or products. External websites and services have their own terms. Ad availability depends on the network and connection. Tracking permission is not a condition of purchasing Premium.
+Free access may include feature limits. External websites and services have their own terms.
 
 ## 4. Premium, subscriptions and trials
 

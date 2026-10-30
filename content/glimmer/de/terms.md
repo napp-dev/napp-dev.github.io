@@ -12,9 +12,9 @@ Affirmationen dienen allgemeiner Inspiration und Selbstreflexion. Die App bietet
 
 Ein Teil der Texte oder Bilder wurde mithilfe von KI erstellt. Fehler, Wiederholungen und unpassende Formulierungen sind möglich. Inhalte sind keine individuelle Einschätzung oder fachliche Empfehlung. Es gibt derzeit keinen KI-Livechat und keine Antworterzeugung aus deinen eigenen Texten.
 
-## 3. Gratiszugang und Werbung
+## 3. Gratiszugang
 
-Gratiszugang kann Werbung und Funktionslimits enthalten. Drittanbieteranzeigen stellen keine Empfehlung der beworbenen Produkte oder Aussagen dar. Externe Dienste haben eigene Bedingungen. Anzeigenverfügbarkeit hängt von Netzwerk und Verbindung ab. Tracking-Erlaubnis ist keine Voraussetzung für einen Premium-Kauf.
+Gratiszugang kann Funktionslimits enthalten. Externe Dienste haben eigene Bedingungen.
 
 ## 4. Premium, Abos und Probeangebote
 

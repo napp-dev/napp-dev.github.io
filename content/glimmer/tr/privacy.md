@@ -14,9 +14,9 @@ Google Analytics for Firebase etkileşim ve teknik veri toplar. Başlangıç etk
 
 Teknik veriler model, uygulama ve sistem sürümleri, dil, yaklaşık bölge, oturum ve kurulum veya uygulama örneği kimliklerini içerebilir. Firebase Crashlytics çökme raporları, tanılama ve ilgili kimlikleri işler. Firebase Remote Config, asgari desteklenen sürüm gibi ayarları sunmak için kurulum kimliklerini kullanır. Amaç kullanımı anlamak, hataları gidermek ve uygulamayı sürdürmektir. Şu anda tüm analiz ve çökme raporlamasını kapatan ayrı bir seçenek yoktur.
 
-## 3. Reklam ve satın almalar
+## 3. Satın almalar
 
-Google AdMob reklam sunma, ölçme ve dolandırıcılığı önleme için IP, buradan çıkarılan yaklaşık konum, cihaz ve uygulama kimlikleri, tanılama, gösterimler, etkileşimler ve reklam ölçümlerini işleyebilir. Apple IDFA yalnızca iOS izleme izniyle kullanılabilir. Mevcut sürüm bu izni istemez ve reklam onay formu sunmaz. İzin sorusunun olmaması SDK’ların hiç veri toplamadığı anlamına gelmez. Bkz. [AdMob verileri](https://developers.google.com/admob/ios/privacy/data-disclosure), [Google gizliliği](https://policies.google.com/privacy).
+Uygulama reklam göstermez, reklam SDK’ları içermez ve izleme izni istemez.
 
 Ödemeleri Apple işler. Uygulama Premium erişimi doğrulamak için işlem, ürün ve abonelik geçerliliğini alır. Analytics belirtilen satın alma etkinliklerini işleyebilir. Tam kart bilgilerinizi veya Apple Hesabı parolanızı almayız. Premium analiz ve çökme raporlarını kapatmaz.
 
@@ -26,19 +26,19 @@ Yerleşik içeriğin bir kısmı yayımdan önce yapay zekâ yardımıyla hazır
 
 ## 5. Amaçlar, hukuki dayanaklar ve alıcılar
 
-Bilgiler işlevler, satın almalar, güvenilirlik, kullanım analizi, yapılandırma, reklamla finansman ve destek için işlenir. İşlemeye ve yasaya göre dayanak sözleşme, gerekli rıza, yasal yükümlülük veya izin verilen bakım ve iyileştirme meşru menfaatleri olabilir. Kullanım veya koşulları kabul, yasaların gerektirdiği ayrı rızanın yerine geçmez.
+Bilgiler işlevler, satın almalar, güvenilirlik, kullanım analizi, yapılandırma ve destek için işlenir. İşlemeye ve yasaya göre dayanak sözleşme, gerekli rıza, yasal yükümlülük veya izin verilen bakım ve iyileştirme meşru menfaatleri olabilir. Kullanım veya koşulları kabul, yasaların gerektirdiği ayrı rızanın yerine geçmez.
 
-Alıcılar Apple, Firebase ve AdMob için Google, reklam ortakları ve destek e-posta sağlayıcısını içerir. Veriler ABD dahil ülkeniz dışında işlenebilir. Güvenceler hizmete ve yargı alanına bağlıdır: [Firebase](https://firebase.google.com/support/privacy), [Google](https://policies.google.com/privacy), [Apple](https://www.apple.com/legal/privacy/).
+Alıcılar Apple, Firebase için Google ve destek e-posta sağlayıcısını içerir. Veriler ABD dahil ülkeniz dışında işlenebilir. Güvenceler hizmete ve yargı alanına bağlıdır: [Firebase](https://firebase.google.com/support/privacy), [Google](https://policies.google.com/privacy), [Apple](https://www.apple.com/legal/privacy/).
 
 ## 6. Saklama ve güvenlik
 
-Yerel veriler silinene veya uygulama kaldırılana kadar kalır; yedekler Apple ayarlarına bağlıdır. Kullanıcı düzeyindeki Analytics verileri mülkün ayarlanmış saklama süresini izler; toplu raporlar daha uzun kalabilir. Firebase, çökme raporları ve kimlikler için silme başlamadan önce 90 gün belirtir. Remote Config kimlikleri Firebase’e silme isteği yapılana kadar kalır. Reklam verileri bağlantılı Google kurallarını izler. Destek mesajları çözüm ve yasal yükümlülükler için gerektiği kadar saklanır.
+Yerel veriler silinene veya uygulama kaldırılana kadar kalır; yedekler Apple ayarlarına bağlıdır. Kullanıcı düzeyindeki Analytics verileri mülkün ayarlanmış saklama süresini izler; toplu raporlar daha uzun kalabilir. Firebase, çökme raporları ve kimlikler için silme başlamadan önce 90 gün belirtir. Remote Config kimlikleri Firebase’e silme isteği yapılana kadar kalır. Destek mesajları çözüm ve yasal yükümlülükler için gerektiği kadar saklanır.
 
 Kaldırma yeni etkinliği durdurur ancak sağlayıcılara önceden ulaşan verileri hemen silmez. Ağ bağlantıları şifrelidir; mutlak güvenlik garanti edilmez.
 
 ## 7. Seçimleriniz ve haklarınız
 
-Cümleleri ve favorileri silebilir, tercihleri değiştirebilir, iOS bildirimlerini ve önizlemeleri yönetebilirsiniz. Kaldırma, iOS’un yönettiği yedekler ve ortak araç takımı alanı saklı kalmak üzere yerel depolamayı siler. Mevcut izleme izinlerini Ayarlar → Gizlilik ve Güvenlik → Takip bölümünden yönetin; bu tüm analiz, tanılama veya reklam işlemesini durdurmaz.
+Cümleleri ve favorileri silebilir, tercihleri değiştirebilir, iOS bildirimlerini ve önizlemeleri yönetebilirsiniz. Kaldırma, iOS’un yönettiği yedekler ve ortak araç takımı alanı saklı kalmak üzere yerel depolamayı siler.
 
 Ülkenize göre erişim, düzeltme, silme, taşınabilirlik, kısıtlama, itiraz, rızayı geri alma ve veri koruma kurumuna şikâyet hakları olabilir. İstekler: [{{contact_email}}](mailto:{{contact_email}}). İsteği kurulumla eşleştirmek için ek bilgi gerekebilir; ad veya e-posta tek başına yetmeyebilir. Adımları açıklar ve yasal sürelerde yanıtlarız. Rızanın geri alınması önceki hukuka uygun işlemleri etkilemez.
 

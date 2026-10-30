@@ -14,9 +14,9 @@ Google Analytics for Firebase collects app interactions and technical informatio
 
 Technical data can include device model, app and operating-system versions, language, approximate region, session information and app-instance or installation identifiers. Firebase Crashlytics processes crash reports, diagnostic information and associated installation identifiers. Firebase Remote Config uses installation identifiers to deliver app configuration, including the minimum supported app version. These services help us understand usage, fix failures and maintain the app. The current app has no separate switch to disable all analytics and crash reporting.
 
-## 3. Advertising and purchases
+## 3. Purchases
 
-The app uses Google AdMob. Its SDK may process IP address, approximate location inferred from it, device and app identifiers, diagnostics, ad impressions, interactions and advertising measurements to deliver and measure ads and prevent fraud. Apple's advertising identifier (IDFA) is available only with iOS tracking permission. The current version does not request that permission or provide an in-app advertising consent form; do not assume that all SDK data collection depends on a tracking prompt. Details: [AdMob data disclosures](https://developers.google.com/admob/ios/privacy/data-disclosure) and [Google Privacy Policy](https://policies.google.com/privacy).
+The app does not show ads, contains no advertising SDKs and does not request tracking permission.
 
 Apple processes Premium purchases. The app receives transaction information to verify access, including the product and subscription validity. Purchase-related events can also be processed by Analytics as described above. We do not receive your full payment-card details or Apple Account password. Premium does not disable analytics or crash reporting.
 
@@ -26,19 +26,19 @@ Some built-in content was created with the help of artificial intelligence befor
 
 ## 5. Purposes, legal grounds and recipients
 
-We process information to provide app features and purchases, maintain reliability, understand usage, configure the app, fund free access through advertising and respond to support requests. Depending on the processing and applicable law, legal grounds may include performance of a contract, consent where required, legal obligations, or legitimate interests in maintaining and improving the app where permitted. Using the app or accepting these terms does not replace any separate consent required by law.
+We process information to provide app features and purchases, maintain reliability, understand usage, configure the app and respond to support requests. Depending on the processing and applicable law, legal grounds may include performance of a contract, consent where required, legal obligations, or legitimate interests in maintaining and improving the app where permitted. Using the app or accepting these terms does not replace any separate consent required by law.
 
-Recipients include Apple for purchases, Google for Firebase and AdMob, advertising partners involved in ad delivery, and the email provider used for support. Providers may process information outside your country, including in the United States. Applicable safeguards and processing terms depend on the service and jurisdiction. See [Firebase privacy and security](https://firebase.google.com/support/privacy), [Google Privacy Policy](https://policies.google.com/privacy) and [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
+Recipients include Apple for purchases, Google for Firebase and the email provider used for support. Providers may process information outside your country, including in the United States. Applicable safeguards and processing terms depend on the service and jurisdiction. See [Firebase privacy and security](https://firebase.google.com/support/privacy), [Google Privacy Policy](https://policies.google.com/privacy) and [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ## 6. Retention and security
 
-Local information remains until you delete it or remove the app; backup copies follow your Apple backup settings. User-level Analytics data follows the retention period configured for the Google Analytics property; aggregated reports may remain longer. Firebase documents a 90-day retention period for crash reports and associated identifiers before deletion begins. Remote Config installation identifiers remain until a deletion request is made to Firebase. Advertising data follows Google's retention rules linked above. Support messages are retained as needed to resolve requests and meet legal obligations.
+Local information remains until you delete it or remove the app; backup copies follow your Apple backup settings. User-level Analytics data follows the retention period configured for the Google Analytics property; aggregated reports may remain longer. Firebase documents a 90-day retention period for crash reports and associated identifiers before deletion begins. Remote Config installation identifiers remain until a deletion request is made to Firebase. Support messages are retained as needed to resolve requests and meet legal obligations.
 
 Removing the app stops new app activity but does not immediately erase information previously received by service providers. Network services use encrypted connections. No method of storage or transmission guarantees absolute security.
 
 ## 7. Your choices and rights
 
-You can delete your own affirmations in the app, remove favourites, change preferences and manage notification permission and previews in iOS Settings. Removing the app deletes its local app storage, subject to device backups and shared widget storage managed by iOS. Where a tracking permission exists, manage it in iOS Settings → Privacy & Security → Tracking. This setting does not switch off all analytics, diagnostics or advertising data processing.
+You can delete your own affirmations in the app, remove favourites, change preferences and manage notification permission and previews in iOS Settings. Removing the app deletes its local app storage, subject to device backups and shared widget storage managed by iOS.
 
 Depending on your country, you may have rights to access, correct, delete or receive personal data, restrict or object to processing, withdraw consent, and complain to a data-protection authority. Send requests to [{{contact_email}}](mailto:{{contact_email}}). We may need information that links a request to an installation; a name or email address alone may not identify SDK data. We will explain available steps and respond within applicable legal time limits. Withdrawing consent does not affect earlier lawful processing.
 

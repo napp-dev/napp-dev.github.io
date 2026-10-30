@@ -12,9 +12,9 @@ Le affermazioni offrono ispirazione generale e riflessione personale. L’app no
 
 Alcuni testi o immagini sono stati creati con IA e possono contenere errori, ripetizioni o formulazioni inadatte. Non sono valutazioni individuali o raccomandazioni professionali. L’app attuale non offre chat IA dal vivo o generazione dalle tue frasi.
 
-## 3. Accesso gratuito e annunci
+## 3. Accesso gratuito
 
-L’accesso gratuito può includere pubblicità e limiti. Annunci di terzi non implicano approvazione di prodotti o affermazioni. Servizi esterni hanno proprie condizioni. La disponibilità dipende da rete e connessione. Il permesso di tracciamento non è necessario per acquistare Premium.
+L’accesso gratuito può includere limiti. Servizi esterni hanno proprie condizioni.
 
 ## 4. Premium, abbonamenti e prove
 

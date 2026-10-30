@@ -14,9 +14,9 @@ Google Analytics for Firebase raccoglie interazioni e dati tecnici. I nostri eve
 
 I dati tecnici possono includere modello, versioni di app e sistema, lingua, regione approssimativa, sessione e identificatori di installazione o istanza. Firebase Crashlytics tratta arresti anomali, diagnostica e identificatori associati. Firebase Remote Config usa identificatori per fornire configurazioni, inclusa la versione minima supportata. Questi servizi aiutano a comprendere l’uso, correggere errori e mantenere l’app. Non esiste attualmente un interruttore separato per disattivare tutte le analisi e le segnalazioni di arresti anomali.
 
-## 3. Pubblicità e acquisti
+## 3. Acquisti
 
-Google AdMob può trattare indirizzo IP, posizione approssimativa derivata, identificatori di app e dispositivo, diagnostica, impressioni, interazioni e misurazioni pubblicitarie per fornire annunci, misurarli e prevenire frodi. L’IDFA Apple è disponibile solo con il permesso di tracciamento iOS. La versione attuale non richiede tale permesso né offre un modulo di consenso pubblicitario. L’assenza della richiesta non impedisce ogni raccolta degli SDK. Vedi [dati AdMob](https://developers.google.com/admob/ios/privacy/data-disclosure) e [privacy Google](https://policies.google.com/privacy).
+L’app non mostra annunci, non contiene SDK pubblicitari e non richiede il permesso di tracciamento.
 
 Apple gestisce i pagamenti. L’app riceve transazioni, prodotto e validità dell’abbonamento per verificare Premium. Analytics può trattare gli eventi descritti. Non riceviamo dati completi della carta o password dell’Apple Account. Premium non disattiva analisi e segnalazioni di errori.
 
@@ -26,19 +26,19 @@ Parte dei contenuti integrati è stata creata con IA prima della pubblicazione. 
 
 ## 5. Finalità e destinatari
 
-Trattiamo dati per funzioni, acquisti, affidabilità, analisi d’uso, configurazione, finanziamento pubblicitario e assistenza. A seconda del trattamento e della legge, le basi sono contratto, consenso richiesto, obblighi legali o interessi legittimi consentiti di manutenzione e miglioramento. Uso e accettazione dei termini non sostituiscono un consenso separato obbligatorio.
+Trattiamo dati per funzioni, acquisti, affidabilità, analisi d’uso, configurazione e assistenza. A seconda del trattamento e della legge, le basi sono contratto, consenso richiesto, obblighi legali o interessi legittimi consentiti di manutenzione e miglioramento. Uso e accettazione dei termini non sostituiscono un consenso separato obbligatorio.
 
-I destinatari includono Apple, Google per Firebase e AdMob, partner pubblicitari e fornitore email dell’assistenza. Il trattamento può avvenire fuori dal tuo paese, anche negli Stati Uniti. Le garanzie dipendono da servizio e giurisdizione: [Firebase](https://firebase.google.com/support/privacy), [Google](https://policies.google.com/privacy), [Apple](https://www.apple.com/legal/privacy/).
+I destinatari includono Apple, Google per Firebase e fornitore email dell’assistenza. Il trattamento può avvenire fuori dal tuo paese, anche negli Stati Uniti. Le garanzie dipendono da servizio e giurisdizione: [Firebase](https://firebase.google.com/support/privacy), [Google](https://policies.google.com/privacy), [Apple](https://www.apple.com/legal/privacy/).
 
 ## 6. Conservazione e sicurezza
 
-I dati locali restano fino alla cancellazione o rimozione dell’app; i backup seguono le impostazioni Apple. I dati individuali Analytics seguono il periodo configurato della proprietà; i report aggregati possono durare più a lungo. Firebase indica 90 giorni per arresti anomali e identificatori prima dell’avvio della cancellazione. Gli identificatori Remote Config restano fino alla richiesta di eliminazione a Firebase. I dati pubblicitari seguono le regole Google citate. Conserviamo i messaggi di supporto quanto necessario per risolvere richieste e adempiere obblighi legali.
+I dati locali restano fino alla cancellazione o rimozione dell’app; i backup seguono le impostazioni Apple. I dati individuali Analytics seguono il periodo configurato della proprietà; i report aggregati possono durare più a lungo. Firebase indica 90 giorni per arresti anomali e identificatori prima dell’avvio della cancellazione. Gli identificatori Remote Config restano fino alla richiesta di eliminazione a Firebase. Conserviamo i messaggi di supporto quanto necessario per risolvere richieste e adempiere obblighi legali.
 
 Disinstallare ferma la nuova attività senza cancellare subito i dati già ricevuti dai fornitori. Le connessioni sono cifrate; la sicurezza assoluta non è garantita.
 
 ## 7. Scelte e diritti
 
-Puoi eliminare frasi, rimuovere preferiti, cambiare impostazioni e gestire notifiche e anteprime in iOS. La disinstallazione elimina l’archivio locale, tenendo conto di backup e spazio condiviso del widget gestiti da iOS. Gestisci eventuali permessi di tracciamento in Impostazioni → Privacy e sicurezza → Tracciamento; ciò non disattiva ogni analisi, diagnostica o trattamento pubblicitario.
+Puoi eliminare frasi, rimuovere preferiti, cambiare impostazioni e gestire notifiche e anteprime in iOS. La disinstallazione elimina l’archivio locale, tenendo conto di backup e spazio condiviso del widget gestiti da iOS.
 
 Secondo il paese puoi avere diritti di accesso, rettifica, cancellazione, portabilità, limitazione, opposizione, revoca e reclamo all’autorità di protezione dati. Scrivi a [{{contact_email}}](mailto:{{contact_email}}). Per collegare la richiesta a un’installazione possono servire altre informazioni; nome o email potrebbero non bastare. Spiegheremo i passi disponibili e risponderemo nei termini di legge. La revoca non incide sui trattamenti precedenti leciti.
 

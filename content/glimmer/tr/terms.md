@@ -12,9 +12,9 @@ Olumlamalar genel ilham ve kişisel düşünme içindir. Uygulama tıbbi bakım,
 
 Bazı metin ve görseller yapay zekâyla hazırlanmıştır; hata, tekrar veya uygunsuz ifadeler olabilir. Kişisel değerlendirme veya profesyonel tavsiye değildir. Mevcut uygulamada canlı yapay zekâ sohbeti veya metinlerinizden yanıt üretimi yoktur.
 
-## 3. Ücretsiz erişim ve reklam
+## 3. Ücretsiz erişim
 
-Ücretsiz erişim reklam ve işlev sınırları içerebilir. Üçüncü taraf reklamları, ürün veya iddialarını onayladığımız anlamına gelmez. Dış hizmetlerin kendi koşulları vardır. Kullanılabilirlik ağ ve bağlantıya bağlıdır. Premium almak için izleme izni gerekmez.
+Ücretsiz erişim işlev sınırları içerebilir. Dış hizmetlerin kendi koşulları vardır.
 
 ## 4. Premium, abonelik ve denemeler
 

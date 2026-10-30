@@ -12,9 +12,9 @@ Les affirmations servent à l’inspiration générale et à la réflexion perso
 
 Certains textes ou visuels ont été créés avec l’IA et peuvent présenter erreurs, répétitions ou formulations inadaptées. Ils ne constituent ni évaluation individuelle ni recommandation professionnelle. L’app actuelle n’offre pas de dialogue IA en direct ni de génération à partir de vos phrases.
 
-## 3. Accès gratuit et annonces
+## 3. Accès gratuit
 
-L’accès gratuit peut inclure publicité et limites. Les annonces de tiers ne constituent pas une approbation de leurs produits ou affirmations. Les services externes ont leurs conditions. La disponibilité dépend du réseau et de la connexion. L’autorisation de suivi n’est pas une condition d’achat de Premium.
+L’accès gratuit peut inclure des limites. Les services externes ont leurs conditions.
 
 ## 4. Premium, abonnements et essais
 
