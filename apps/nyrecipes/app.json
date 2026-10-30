@@ -4,6 +4,11 @@
   "updated": "2026-10-16",
   "icon": "/assets/nyrecipes/icon.png",
   "hero": "/assets/nyrecipes/table.jpg",
+  "catalogue": {
+    "name": "Recipe Book",
+    "description": "Recipes, menus and shopping lists for your next gathering.",
+    "preview_copy": ["Good food.", "A little less planning."]
+  },
   "locales": {
     "en": {
       "label": "English",

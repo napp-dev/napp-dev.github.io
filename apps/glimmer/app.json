@@ -4,6 +4,11 @@
   "updated": "2026-10-30",
   "icon": "/assets/glimmer/icon.png",
   "hero": "/assets/glimmer/landscape-lake.jpg",
+  "catalogue": {
+    "name": "Glimmer",
+    "description": "Daily affirmations. A little space for yourself, every day.",
+    "preview_copy": ["A little more calm.", "A little more you."]
+  },
   "catalogue_platform": "IPHONE",
   "locales": {
     "en": {

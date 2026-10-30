@@ -101,9 +101,11 @@ def document_links(app, lang, current=None):
 
 def page(path, title, description, body, lang='en', app=None, kind=None, indexable=True):
     text = app['locales'][lang] if app and lang in app['locales'] else None
-    all_apps = text['all_apps'] if text else 'All apps'
+    all_apps = text['all_apps'] if text else 'Apps'
     skip = text['skip'] if text else 'Skip to content'
-    contact = text['contact'] if text else 'Contact support'
+    contact = text['contact'] if text else 'Support'
+    footer_brand = anchor(SITE['brand'], '/', 'brand')
+    footer_intro = '<span class="footer-tagline">Independent iOS apps for a brighter everyday.</span>' if path == '/' else ''
     alternates = ''
     if app and text:
         alternates = ''.join(f'<link rel="alternate" hreflang="{e(code)}" href="{e(ORIGIN + url(app, code, kind))}">' for code in app['locales'])
@@ -113,11 +115,11 @@ def page(path, title, description, body, lang='en', app=None, kind=None, indexab
 <html lang="{e(lang)}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(title)} · {e(SITE['brand'])}</title><meta name="description" content="{e(description)}">
 <link rel="canonical" href="{e(ORIGIN + path)}">{alternates}
-<meta name="color-scheme" content="light dark"><meta name="theme-color" content="#20483d">
+<meta name="color-scheme" content="dark"><meta name="theme-color" content="#111318">
 <meta property="og:type" content="website"><meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(description)}"><meta property="og:url" content="{e(ORIGIN + path)}"><meta property="og:image" content="{e(ORIGIN + og_image)}">
 <link rel="icon" href="{e(app['icon'] if app else '/assets/favicon.svg')}"><link rel="stylesheet" href="/assets/style.css">{'' if indexable else '<meta name="robots" content="noindex">'}</head>
-<body><a class="skip" href="#main">{e(skip)}</a><header class="site-header"><div class="shell header-inner">{anchor(SITE['brand'], '/', 'brand')}<span class="header-links">{anchor(all_apps, '/')}{anchor(contact, 'mailto:' + EMAIL)}</span></div></header>
-<main id="main" class="shell">{body}</main><footer class="shell footer"><span>© {e(SITE['brand'])}</span>{anchor(EMAIL, 'mailto:' + EMAIL)}</footer></body></html>'''
+<body><a class="skip" href="#main">{e(skip)}</a><header class="site-header"><div class="shell header-inner">{anchor(SITE['brand'], '/', 'brand')}<nav class="header-links" aria-label="{e(all_apps)}">{anchor(all_apps, '/#apps' if path == '/' else '/')}{anchor(contact, 'mailto:' + EMAIL)}</nav></div></header>
+<main id="main" class="shell">{body}</main><footer class="shell footer"><div class="footer-identity">{footer_brand}{footer_intro}</div>{anchor(EMAIL, 'mailto:' + EMAIL, 'footer-contact')}</footer></body></html>'''
     target = path.lstrip('/') + 'index.html' if path.endswith('/') else path.lstrip('/')
     PAGES[target] = content + '\n'
 
@@ -158,9 +160,23 @@ for app_id in SITE['apps']:
 
 cards = ''
 for app in apps:
-    text = app['locales']['en']
-    cards += f'<article class="app-card"><div class="app-card-copy"><img class="app-icon" src="{e(app["icon"])}" alt="" width="80" height="80"><p class="eyebrow">{e(app.get("catalogue_platform", "IPHONE & IPAD"))} · {len(app["locales"])} LANGUAGES</p><h2>{anchor(text["name"], url(app))}</h2><p class="native-name" lang="ru">{e(app["locales"].get("ru",text)["name"])}</p><p>{e(text["description"])}</p>{anchor("Explore the app ↗", url(app), "text-link")}</div><a class="app-card-image{" phone-preview" if app.get("image_style") == "phone" else ""}" href="{e(url(app))}" aria-label="{e(text["name"])}"><img src="{e(app["hero"])}" alt="" width="1536" height="1024"></a></article>'
-page('/', 'Our apps', 'Napp apps: discover our apps, download them and find privacy policies, terms and support.', '<section class="hub-intro"><p class="eyebrow">INDEPENDENT APPS BY NAPP</p><h1>A little help.<br>For everyday life.</h1><p class="lead">Discover our apps. Find your language, the details<br class="desktop-break"> and a way to get in touch.</p></section><section class="catalogue" aria-labelledby="apps-title"><div class="section-heading"><h2 id="apps-title">Our apps</h2><span class="muted">' + f'{len(apps):02d}' + '</span></div>' + cards + '</section><section class="contact-strip"><h2>Need a hand?</h2><p>Support and documents are on each app’s page.</p>' + anchor(EMAIL, 'mailto:' + EMAIL) + '</section>')
+    catalogue = app['catalogue']
+    preview_copy = ''.join(f'<span>{e(line)}</span>' for line in catalogue['preview_copy'])
+    preview = f'''<div class="app-preview preview-{e(app['id'])}" aria-hidden="true">
+<img src="{e(app['hero'])}" alt="" width="{1206 if app.get('image_style') == 'phone' else 1536}" height="{2622 if app.get('image_style') == 'phone' else 1024}">
+<div class="preview-caption">{preview_copy}</div></div>'''
+    docs = ''.join(anchor(label, url(app, 'en', kind)) for label, kind in (
+        ('Support', 'support'), ('Privacy', 'privacy'), ('Terms', 'terms')))
+    cards += f'''<article class="app-card" aria-labelledby="app-{e(app['id'])}">
+<div class="app-card-heading"><img class="app-icon" src="{e(app['icon'])}" alt="" width="80" height="80">
+<div><h2 id="app-{e(app['id'])}">{anchor(catalogue['name'], url(app))}</h2><p>{e(catalogue['description'])}</p></div></div>
+{preview}
+{anchor('Explore app', url(app), 'button explore-link')}
+<nav class="app-card-docs" aria-label="{e(catalogue['name'])} documents">{docs}</nav></article>'''
+page('/', 'Our apps', 'Napp apps: discover our apps, download them and find privacy policies, terms and support.', '''<section class="hub-intro">
+<div class="hero-orbits" aria-hidden="true"><div class="orbit orbit-back"></div><div class="orbit orbit-front"></div></div>
+<div class="hub-intro-copy"><h1>Small apps.<br>Everyday magic.</h1><p class="lead">Meet the apps. Find the answers.</p><p class="studio-badge">Independent iOS apps</p></div>
+</section><section id="apps" class="catalogue" aria-labelledby="apps-title"><h2 id="apps-title" class="sr-only">Our apps</h2><div class="app-grid">''' + cards + '</div></section>')
 page('/404.html', 'Page not found', 'This page could not be found.', '<section class="hub-intro"><p class="eyebrow">404</p><h1>Let’s find your way back.</h1><p class="lead">This address does not lead to a page.</p>' + anchor('Browse our apps →', '/', 'button') + '</section>', indexable=False)
 
 sitemap = ET.Element('urlset', xmlns='http://www.sitemaps.org/schemas/sitemap/0.9')

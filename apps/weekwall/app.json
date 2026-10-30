@@ -6,6 +6,11 @@
   "hero": "/assets/weekwall/lock-screen.png",
   "image_style": "phone",
   "catalogue_platform": "IPHONE",
+  "catalogue": {
+    "name": "Weekwall",
+    "description": "Your calendar, made into a wallpaper. Your week at a glance.",
+    "preview_copy": ["Your week.", "Your wallpaper."]
+  },
   "locales": {
     "en": {
       "label": "English",
