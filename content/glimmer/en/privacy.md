@@ -10,7 +10,16 @@ Reminders are local notifications and require your permission. Affirmation text 
 
 ## 2. Analytics, diagnostics and configuration
 
-Google Analytics for Firebase collects app interactions and technical information. Our onboarding events include the step viewed, chosen grammatical gender, number of selected goals, notification permission outcome, completion, flow and duration. Paywall events include display, closing, purchase or restore outcome and selected plan. Our custom analytics events do not include the text of your own affirmations or the names of selected goals.
+Google Analytics for Firebase collects app interactions and technical information. Our own events and user properties cover:
+
+- onboarding: step viewed, chosen grammatical gender, number of selected goals, notification permission outcome, completion, flow and duration;
+- the purchase screen: where it was opened, screen variant, display, selected plan, purchase start, trial start, purchase, failure, restore result and closing;
+- purchases: Apple transaction details used to measure revenue and renewals, such as product, price and currency;
+- the feed: number of affirmations viewed per session, topic opened, adding or removing a favourite, sharing and the number of personal affirmations;
+- app use: whether the app was opened from its icon or the widget, whether reminders are on and how many times a day, and whether a widget is added;
+- user properties: grammatical gender, selected goal topics, Premium status and plan, and whether a widget and notifications are enabled.
+
+Our events and properties do not include the text of affirmations, including your own.
 
 Technical data can include device model, app and operating-system versions, language, approximate region, session information and app-instance or installation identifiers. Firebase Crashlytics processes crash reports, diagnostic information and associated installation identifiers. Firebase Remote Config uses installation identifiers to deliver app configuration, including the minimum supported app version. These services help us understand usage, fix failures and maintain the app. The current app has no separate switch to disable all analytics and crash reporting.
 

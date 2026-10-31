@@ -10,7 +10,16 @@ Hatırlatmalar izin gerektiren yerel bildirimlerdir. Metinler bildirimlerde ve a
 
 ## 2. Analiz, tanılama ve yapılandırma
 
-Google Analytics for Firebase etkileşim ve teknik veri toplar. Başlangıç etkinliklerimiz görüntülenen adım, seçilen dilbilgisel cinsiyet, hedef sayısı, bildirim izni sonucu, tamamlama, akış ve süreyi içerir. Satın alma ekranı etkinlikleri gösterme, kapatma, satın alma veya geri yükleme sonucu ve planı içerir. Özel etkinliklerimiz kişisel cümlelerinizi veya seçilen hedeflerin adlarını içermez.
+Google Analytics for Firebase uygulamayla etkileşimlere ilişkin bilgileri ve teknik verileri toplar. Kendi etkinliklerimiz ve kullanıcı özelliklerimiz aşağıdaki bilgileri kapsar:
+
+- başlangıç: görüntülenen adım, seçilen dilbilgisel cinsiyet, seçilen hedef sayısı, bildirim izni isteğinin sonucu, tamamlama, akış ve süre;
+- satın alma ekranı: nereden açıldığı, ekran varyantı, gösterim, seçilen plan, satın alma başlangıcı, deneme süresinin başlangıcı, satın alma, hata, geri yükleme sonucu ve kapatma;
+- satın almalar: gelir ve yenilemeleri ölçmek için kullanılan ürün, fiyat ve para birimi gibi Apple işlem bilgileri;
+- akış: oturum başına görüntülenen olumlama sayısı, açılan konu, favorilere ekleme veya favorilerden çıkarma, paylaşma ve kişisel olumlama sayısı;
+- uygulama kullanımı: uygulamanın simgesinden mi yoksa araç takımından mı açıldığı, hatırlatmaların açık olup olmadığı ve günde kaç kez gönderildiği, araç takımı eklenip eklenmediği;
+- kullanıcı özellikleri: dilbilgisel cinsiyet, seçilen hedeflerin konuları, Premium durumu ve planı, araç takımı ve bildirimlerin etkin olup olmadığı.
+
+Etkinliklerimiz ve özelliklerimiz, kendi olumlamalarınız da dahil olmak üzere olumlamaların metnini içermez.
 
 Teknik veriler model, uygulama ve sistem sürümleri, dil, yaklaşık bölge, oturum ve kurulum veya uygulama örneği kimliklerini içerebilir. Firebase Crashlytics çökme raporları, tanılama ve ilgili kimlikleri işler. Firebase Remote Config, asgari desteklenen sürüm gibi ayarları sunmak için kurulum kimliklerini kullanır. Amaç kullanımı anlamak, hataları gidermek ve uygulamayı sürdürmektir. Şu anda tüm analiz ve çökme raporlamasını kapatan ayrı bir seçenek yoktur.
 

@@ -10,7 +10,16 @@ Erinnerungen sind lokale Mitteilungen und benötigen deine Erlaubnis. Texte kön
 
 ## 2. Analysen, Diagnose und Konfiguration
 
-Google Analytics for Firebase verarbeitet App-Interaktionen und technische Daten. Unsere Onboarding-Ereignisse enthalten den angezeigten Schritt, das gewählte grammatische Geschlecht, die Anzahl gewählter Ziele, das Ergebnis der Mitteilungserlaubnis, Abschluss, Ablauf und Dauer. Kaufbildschirm-Ereignisse enthalten Anzeige, Schließen, Kauf- oder Wiederherstellungsergebnis und Tarif. Eigene Ereignisse enthalten weder persönliche Affirmationstexte noch die Namen gewählter Ziele.
+Google Analytics for Firebase erfasst App-Interaktionen und technische Daten. Unsere eigenen Ereignisse und Nutzereigenschaften umfassen:
+
+- Onboarding: den angezeigten Schritt, das gewählte grammatische Geschlecht, die Anzahl gewählter Ziele, das Ergebnis der Anfrage zur Mitteilungserlaubnis, Abschluss, Ablauf und Dauer;
+- Kaufbildschirm: von wo aus er geöffnet wurde, Bildschirmvariante, Anzeige, gewählten Tarif, Beginn des Kaufs, Beginn des Probezeitraums, Kauf, Fehler, Wiederherstellungsergebnis und Schließen;
+- Käufe: Apple-Transaktionsdaten zur Messung von Umsatz und Verlängerungen, etwa Produkt, Preis und Währung;
+- Feed: die Anzahl der pro Sitzung angesehenen Affirmationen, das geöffnete Thema, das Hinzufügen zu und Entfernen aus den Favoriten, das Teilen und die Anzahl eigener Affirmationen;
+- App-Nutzung: ob die App über ihr Symbol oder das Widget geöffnet wurde, ob Erinnerungen aktiviert sind und wie oft sie täglich erfolgen und ob ein Widget hinzugefügt wurde;
+- Nutzereigenschaften: grammatisches Geschlecht, Themen der gewählten Ziele, Premium-Status und -Tarif sowie die Angabe, ob Widget und Mitteilungen aktiviert sind.
+
+Unsere Ereignisse und Eigenschaften enthalten keine Affirmationstexte, auch nicht deine eigenen.
 
 Technische Daten können Gerätemodell, App- und Betriebssystemversion, Sprache, ungefähre Region, Sitzungsdaten und App-Instanz- oder Installationskennungen umfassen. Firebase Crashlytics verarbeitet Absturzberichte, Diagnosen und zugehörige Kennungen. Firebase Remote Config verwendet Installationskennungen für Einstellungen wie die mindestens unterstützte App-Version. Dies dient Nutzungsauswertung, Fehlerbehebung und Betrieb. Es gibt derzeit keinen gesonderten Schalter, der alle Analysen und Absturzberichte deaktiviert.
 

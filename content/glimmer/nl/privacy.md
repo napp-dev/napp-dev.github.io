@@ -10,7 +10,16 @@ Herinneringen zijn lokale meldingen waarvoor toestemming nodig is. Tekst kan in 
 
 ## 2. Analyses en diagnose
 
-Google Analytics for Firebase verzamelt interacties en technische gegevens. Onze introductie-events bevatten bekeken stap, gekozen grammaticaal geslacht, aantal doelen, resultaat van meldingstoestemming, voltooiing, verloop en duur. Aankoopscherm-events bevatten tonen, sluiten, aankoop- of herstelresultaat en abonnementstype. Onze eigen events bevatten geen eigen affirmatietekst of namen van gekozen doelen.
+Google Analytics for Firebase verzamelt app-interacties en technische gegevens. Onze eigen events en gebruikerseigenschappen omvatten:
+
+- introductie: bekeken stap, gekozen grammaticaal geslacht, aantal gekozen doelen, resultaat van het verzoek om meldingstoestemming, voltooiing, verloop en duur;
+- aankoopscherm: vanwaar het is geopend, schermvariant, weergave, gekozen abonnementstype, start van de aankoop, start van de proefperiode, aankoop, fout, herstelresultaat en sluiten;
+- aankopen: Apple-transactiegegevens die worden gebruikt om omzet en verlengingen te meten, zoals product, prijs en valuta;
+- feed: aantal bekeken affirmaties per sessie, geopend thema, toevoegen aan of verwijderen uit favorieten, delen en het aantal eigen affirmaties;
+- appgebruik: of de app via het pictogram of de widget is geopend, of herinneringen aanstaan en hoe vaak per dag ze worden verstuurd, en of een widget is toegevoegd;
+- gebruikerseigenschappen: grammaticaal geslacht, thema’s van gekozen doelen, Premium-status en abonnementstype, en of de widget en meldingen zijn ingeschakeld.
+
+Onze events en eigenschappen bevatten geen affirmatieteksten, ook niet die van jezelf.
 
 Technische gegevens kunnen model, app- en systeemversies, taal, globale regio, sessiegegevens en installatie- of app-instantie-ID’s omvatten. Firebase Crashlytics verwerkt crashrapporten, diagnoses en bijbehorende ID’s. Firebase Remote Config gebruikt installatie-ID’s voor instellingen zoals de minimaal ondersteunde appversie. Dit helpt gebruik te begrijpen, fouten op te lossen en de app te onderhouden. Er is nu geen aparte schakelaar om alle analyses en crashrapporten uit te zetten.
 

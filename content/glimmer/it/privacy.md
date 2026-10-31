@@ -10,7 +10,16 @@ I promemoria sono notifiche locali autorizzate da te. Le frasi possono comparire
 
 ## 2. Analisi e diagnostica
 
-Google Analytics for Firebase raccoglie interazioni e dati tecnici. I nostri eventi iniziali comprendono fase vista, genere grammaticale, numero di obiettivi, esito del permesso notifiche, completamento, percorso e durata. Gli eventi di acquisto comprendono apertura, chiusura, esito di acquisto o ripristino e piano. I nostri eventi personalizzati non includono le tue frasi né i nomi degli obiettivi scelti.
+Google Analytics for Firebase raccoglie interazioni con l’app e dati tecnici. I nostri eventi e le nostre proprietà utente comprendono:
+
+- procedura iniziale: fase visualizzata, genere grammaticale scelto, numero di obiettivi scelti, esito della richiesta del permesso per le notifiche, completamento, percorso e durata;
+- schermata di acquisto: punto di accesso, variante della schermata, visualizzazione, piano scelto, avvio dell’acquisto, avvio del periodo di prova, acquisto, errore, esito del ripristino e chiusura;
+- acquisti: dati delle transazioni Apple utilizzati per misurare ricavi e rinnovi, come prodotto, prezzo e valuta;
+- feed: numero di affermazioni visualizzate per sessione, tema aperto, aggiunta ai preferiti o rimozione dai preferiti, condivisione e numero di affermazioni personali;
+- uso dell’app: se è stata aperta dalla sua icona o dal widget, se i promemoria sono attivi e quante volte al giorno vengono inviati, e se è stato aggiunto un widget;
+- proprietà utente: genere grammaticale, temi degli obiettivi scelti, stato e piano Premium e attivazione del widget e delle notifiche.
+
+I nostri eventi e le nostre proprietà non includono il testo delle affermazioni, comprese quelle create da te.
 
 I dati tecnici possono includere modello, versioni di app e sistema, lingua, regione approssimativa, sessione e identificatori di installazione o istanza. Firebase Crashlytics tratta arresti anomali, diagnostica e identificatori associati. Firebase Remote Config usa identificatori per fornire configurazioni, inclusa la versione minima supportata. Questi servizi aiutano a comprendere l’uso, correggere errori e mantenere l’app. Non esiste attualmente un interruttore separato per disattivare tutte le analisi e le segnalazioni di arresti anomali.
 

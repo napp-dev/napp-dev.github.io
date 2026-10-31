@@ -10,7 +10,16 @@ Lembretes são notificações locais autorizadas por você. Frases podem aparece
 
 ## 2. Análises e diagnósticos
 
-Google Analytics for Firebase coleta interações e dados técnicos. Nossos eventos de introdução incluem etapa vista, gênero gramatical, quantidade de objetivos, resultado da permissão de notificações, conclusão, fluxo e duração. Eventos de compra incluem exibição, fechamento, resultado de compra ou restauração e plano. Nossos eventos personalizados não incluem suas frases nem nomes dos objetivos escolhidos.
+Google Analytics for Firebase coleta interações com o app e dados técnicos. Nossos próprios eventos e propriedades do usuário abrangem:
+
+- introdução: etapa visualizada, gênero gramatical escolhido, quantidade de objetivos escolhidos, resultado da solicitação de permissão de notificações, conclusão, fluxo e duração;
+- tela de compra: de onde foi aberta, variante da tela, exibição, plano escolhido, início da compra, início do período de teste, compra, falha, resultado da restauração e fechamento;
+- compras: dados de transações da Apple usados para medir receita e renovações, como produto, preço e moeda;
+- feed: quantidade de afirmações visualizadas por sessão, tema aberto, adição ou remoção de favoritos, compartilhamento e quantidade de afirmações próprias;
+- uso do app: se foi aberto pelo ícone ou pelo widget, se os lembretes estão ativados e quantas vezes por dia são enviados, e se um widget foi adicionado;
+- propriedades do usuário: gênero gramatical, temas dos objetivos escolhidos, status e plano Premium, e se o widget e as notificações estão ativados.
+
+Nossos eventos e propriedades não incluem o texto das afirmações, inclusive das suas próprias.
 
 Dados técnicos podem incluir modelo, versões do app e sistema, idioma, região aproximada, sessão e identificadores de instalação ou instância. Firebase Crashlytics processa relatórios de falhas, diagnósticos e identificadores associados. Firebase Remote Config usa identificadores para fornecer configurações, incluindo a versão mínima suportada. Isso ajuda a compreender o uso, corrigir falhas e manter o app. Atualmente não há controle separado para desligar todas as análises e relatórios de falhas.
 

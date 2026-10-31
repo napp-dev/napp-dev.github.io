@@ -10,7 +10,16 @@ Los recordatorios son notificaciones locales con tu permiso. Las frases pueden a
 
 ## 2. Análisis y diagnóstico
 
-Google Analytics for Firebase recoge interacciones y datos técnicos. Nuestros eventos de bienvenida incluyen paso visto, género gramatical, número de objetivos, resultado del permiso de notificaciones, finalización, recorrido y duración. Los eventos de compra incluyen mostrar o cerrar la pantalla, resultado de compra o restauración y plan. Nuestros eventos personalizados no incluyen tus frases ni los nombres de objetivos elegidos.
+Google Analytics for Firebase recoge interacciones con la app y datos técnicos. Nuestros propios eventos y propiedades de usuario abarcan:
+
+- bienvenida: paso visto, género gramatical elegido, número de objetivos elegidos, resultado de la solicitud de permiso de notificaciones, finalización, recorrido y duración;
+- pantalla de compra: desde dónde se ha abierto, variante de la pantalla, visualización, plan elegido, inicio de la compra, inicio del periodo de prueba, compra, fallo, resultado de la restauración y cierre;
+- compras: datos de transacciones de Apple utilizados para medir los ingresos y las renovaciones, como el producto, el precio y la moneda;
+- feed: número de afirmaciones vistas por sesión, tema abierto, añadir o quitar favoritos, uso de la función de compartir y número de afirmaciones personales;
+- uso de la app: si se ha abierto desde su icono o desde el widget, si los recordatorios están activados y cuántas veces al día se envían, y si se ha añadido un widget;
+- propiedades de usuario: género gramatical, temas de los objetivos elegidos, estado y plan de Premium, y si el widget y las notificaciones están activados.
+
+Nuestros eventos y propiedades no incluyen el texto de las afirmaciones, incluidas las tuyas propias.
 
 Los datos técnicos pueden incluir modelo, versiones de app y sistema, idioma, región aproximada, sesión e identificadores de instalación o instancia. Firebase Crashlytics procesa informes de fallos, diagnósticos e identificadores asociados. Firebase Remote Config utiliza identificadores para entregar configuración, incluida la versión mínima admitida. Estos servicios permiten conocer el uso, corregir fallos y mantener la app. Actualmente no hay un interruptor para desactivar todos los análisis e informes de fallos.
 

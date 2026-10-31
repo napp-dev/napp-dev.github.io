@@ -10,7 +10,16 @@ Les rappels sont des notifications locales soumises à votre autorisation. Les t
 
 ## 2. Analyses et diagnostic
 
-Google Analytics for Firebase recueille interactions et données techniques. Nos événements d’accueil comprennent étape affichée, genre grammatical choisi, nombre d’objectifs, réponse à l’autorisation des notifications, fin, parcours et durée. Les événements d’achat comprennent affichage, fermeture, résultat d’achat ou de restauration et formule choisie. Nos événements personnalisés ne contiennent ni vos phrases ni le nom des objectifs choisis.
+Google Analytics for Firebase recueille les interactions avec l’app et les données techniques. Nos propres événements et propriétés utilisateur couvrent les éléments suivants :
+
+- accueil : étape affichée, genre grammatical choisi, nombre d’objectifs choisis, résultat de la demande d’autorisation des notifications, fin, parcours et durée ;
+- écran d’achat : point d’accès à l’écran, variante de l’écran, affichage, formule choisie, début de l’achat, début de la période d’essai, achat, échec, résultat de la restauration et fermeture ;
+- achats : données de transaction Apple utilisées pour mesurer les revenus et les renouvellements, comme le produit, le prix et la devise ;
+- fil : nombre d’affirmations consultées par session, thème ouvert, ajout aux favoris ou retrait des favoris, partage et nombre d’affirmations personnelles ;
+- utilisation de l’app : ouverture depuis son icône ou le widget, activation des rappels et nombre de rappels par jour, et ajout éventuel d’un widget ;
+- propriétés utilisateur : genre grammatical, thèmes des objectifs choisis, statut et formule Premium, et activation du widget et des notifications.
+
+Nos événements et propriétés ne contiennent pas le texte des affirmations, y compris celles que vous créez vous-même.
 
 Les données techniques peuvent inclure modèle, versions de l’app et du système, langue, région approximative, session et identifiants d’instance ou d’installation. Firebase Crashlytics traite rapports de plantage, diagnostics et identifiants associés. Firebase Remote Config utilise des identifiants pour livrer la configuration, dont la version minimale prise en charge. Ces services servent à comprendre l’usage, corriger les erreurs et maintenir l’app. Aucun bouton distinct ne désactive actuellement toutes les analyses et tous les rapports de plantage.
 
